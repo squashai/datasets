@@ -1,0 +1,2488 @@
+{
+  "source": {
+    "name": "ohtRSiQ-HPg.mp4",
+    "title": "Squash: Men's Round 3 Roundup - Hong Kong Open 2018",
+    "url": "https://gitlab.com/squashai/media/raw/master/ohtRSiQ-HPg.mp4",
+    "type": "video/mp4"
+  },
+  "labels": [
+    {
+      "time": 0,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "visible": false,
+          "name": null,
+          "color": "#FFFFFF",
+          "x": -2,
+          "y": -2
+        },
+        "2": {
+          "visible": false,
+          "name": null,
+          "color": "#000000",
+          "x": 2,
+          "y": -2
+        }
+      }
+    },
+    {
+      "time": 0.5,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "visible": false,
+          "name": null,
+          "color": "#FFFFFF",
+          "x": -2,
+          "y": -2
+        },
+        "2": {
+          "visible": false,
+          "name": null,
+          "color": "#000000",
+          "x": 2,
+          "y": -2
+        }
+      }
+    },
+    {
+      "time": 2.5,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "color": "#000000",
+          "x": -0.023157866642399567,
+          "y": -4.375,
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -1.4766813976386897,
+          "y": -2.1887214177171623,
+          "visible": true,
+          "name": "Richards",
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "time": 3,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.10206115548704567,
+          "y": -4.328587574036949,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -1.4766813976386897,
+          "y": -2.1887214177171623,
+          "visible": true,
+          "name": "Richards",
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "time": 3.5,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.013478678545550007,
+          "y": -4.342639806539103,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -1.2374919449414779,
+          "y": -2.470827966018671,
+          "visible": true,
+          "name": "Richards",
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "time": 4,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.35990858169933454,
+          "y": -4.322388435532196,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -1.2374919449414779,
+          "y": -2.470827966018671,
+          "visible": true,
+          "name": "Richards",
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "time": 4.5,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.5732659756306112,
+          "y": -4.209232735761035,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -1.011585757469177,
+          "y": -2.627298405747251,
+          "visible": true,
+          "name": "Richards",
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "time": 5,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.7292714288299921,
+          "y": -4.209232807159424,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -1.011585757469177,
+          "y": -2.627298405747251,
+          "visible": true,
+          "name": "Richards",
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "time": 5.5,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.1188393234743366,
+          "y": -2.5108645700478722,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 2.163293734744863,
+          "y": -1.6780328357915792,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 6,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.1188393234743366,
+          "y": -2.5108645700478722,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 2.163293734744863,
+          "y": -1.6780328357915792,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 6.5,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.1188393234743366,
+          "y": -2.5108645700478722,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 2.163293734744863,
+          "y": -1.6780328357915792,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 7,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.1188393234743366,
+          "y": -2.5108645700478722,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 2.163293734744863,
+          "y": -1.6780328357915792,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 7.5,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.1188393234743366,
+          "y": -2.5108645700478722,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 1.8235959537378263,
+          "y": -1.6890896942447846,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 8,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.3158078496339007,
+          "y": -2.628621696511291,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 1.3199680617087728,
+          "y": -1.428643037434107,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 8.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.0304002302351027,
+          "y": -2.7468283244007057,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 0.332506444686887,
+          "y": -1.3976043575091537,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 9,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.9833649065802843,
+          "y": -3.150698903275241,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -0.016717637609425844,
+          "y": -1.3052005409720275,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 9.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.9442174355763548,
+          "y": -2.950601021451286,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -0.425640037553088,
+          "y": -1.5544439308108289,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 10,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.45991794257866786,
+          "y": -2.4839469308159696,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -1.355740636940279,
+          "y": -2.2048241703805225,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 10.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.4478186653217927,
+          "y": -1.565475236164279,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -1.743353481467465,
+          "y": -3.3348186787299037,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 11,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.17857481762946104,
+          "y": -1.2911121894715785,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -1.8533667000222591,
+          "y": -3.3765092092802425,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 11.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.646545715430127,
+          "y": -1.6297073914960618,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -0.9540225971494298,
+          "y": -3.2542027474388746,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 12,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.3093669866925384,
+          "y": -2.170412321800938,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -0.5110266042736153,
+          "y": -2.3841116968738207,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 12.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.9901678240557616,
+          "y": -2.2308427243527196,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -0.429130873267338,
+          "y": -1.2914139180495359,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 13,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.7225320051834875,
+          "y": -1.8271572360273645,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -1.455207390301326,
+          "y": -0.354321479071732,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 13.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.08767389555732008,
+          "y": -1.4360316581100903,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -1.9959503631549222,
+          "y": 0.12692097813964215,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 14,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.8362662762063835,
+          "y": -1.7282423494329522,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -1.3329879684054087,
+          "y": -0.3579314739117955,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 14.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.26281176572054,
+          "y": -2.5453449599343796,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -0.8057622570915725,
+          "y": -0.9835603688570529,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 15,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.12109880976062,
+          "y": -2.8331927392414338,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -0.2913945361099466,
+          "y": -1.1301962312733265,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 15.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.6499433721387856,
+          "y": -2.786329618972759,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -0.2009829080939941,
+          "y": -1.2451498440606343,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 16,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.39901704122132386,
+          "y": -2.7695739616288653,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -0.026608918281511313,
+          "y": -1.2451498508453365,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 16.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.02370349817667331,
+          "y": -2.12429458385046,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 1.2506221280111534,
+          "y": -2.037441444851147,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 17,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.016225593038229486,
+          "y": -1.6040562727181862,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 1.9747190681251348,
+          "y": -2.783361051382718,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 17.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.481138739414513,
+          "y": -1.2832396822142438,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 1.9747190681251348,
+          "y": -2.783361051382718,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 18,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.1783256877206731,
+          "y": -1.7741509642527333,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 0.9720562947826521,
+          "y": -2.8902124213035507,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 18.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.5231716945423608,
+          "y": -2.7431871165876,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 0.032549490856239593,
+          "y": -1.9633232875334325,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 19,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.6350424546608766,
+          "y": -2.861607336661854,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 0.10960097355849728,
+          "y": -1.5820155085259417,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 19.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.6350424546608766,
+          "y": -2.861607336661854,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 0.10960097355849728,
+          "y": -1.5820155085259417,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 20,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.5942384703076615,
+          "y": -2.7978581468659014,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 0.9200286621070882,
+          "y": -1.6289543276154468,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 20.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.40625830886452546,
+          "y": -1.8377866015443032,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 2.077119090822094,
+          "y": -2.741500772682865,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 21,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.4430160570454992,
+          "y": -1.2849209721788237,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 2.021464004090365,
+          "y": -3.475437103212475,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 21.5,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.5897455635303012,
+          "y": -0.8174155401056623,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 1.7373266956923015,
+          "y": -3.8786541177194813,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 22,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.9123315815161818,
+          "y": -0.8365440054776064,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 1.1004083478686826,
+          "y": -3.89300341483334,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 22.5,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.662100347499069,
+          "y": -0.5765819522943513,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 0.4851182766418763,
+          "y": -3.9209673915880225,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 23,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.0227259328769795,
+          "y": -0.7909342279176889,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -0.34445103563636775,
+          "y": -3.8790826065104063,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 23.5,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.2767538588246565,
+          "y": -1.1158723746065247,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -0.7645230174579583,
+          "y": -3.4414477179947203,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 24,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.375213651946024,
+          "y": -1.1752738898854338,
+          "color": "#2196F3",
+          "visible": true,
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -0.9406505969288762,
+          "y": -3.1660211194833097,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 24.5,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "visible": false,
+          "x": 2.375213651946024,
+          "y": -1.1752738898854338,
+          "color": "#2196F3",
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "visible": false,
+          "x": -0.9406505969288762,
+          "y": -3.1660211194833097,
+          "color": "#F44336",
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 25,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "visible": false,
+          "x": 2.375213651946024,
+          "y": -1.1752738898854338,
+          "color": "#2196F3",
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "visible": false,
+          "x": -0.9406505969288762,
+          "y": -3.1660211194833097,
+          "color": "#F44336",
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 25.5,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": 0.8973089758511907,
+          "y": -1.2438017534634906,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 1.6487983149801198,
+          "y": -3.2273096262286236,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 26,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": 1.4275658155075273,
+          "y": -2.098354785880616,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 0.5008815623489663,
+          "y": -3.17343807220459,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 26.5,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": 1.7482273508146577,
+          "y": -2.845026522563372,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 0.2046333982346672,
+          "y": -2.262707829119427,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 27,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": 1.7482273508146577,
+          "y": -2.845026522563372,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 0.04898528387081457,
+          "y": -1.6005057716038542,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 27.5,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": 1.2950580704972656,
+          "y": -2.824866751180534,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 0.08460040731597304,
+          "y": -1.49987894446047,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 28,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": 0.4020125041421415,
+          "y": -2.3535569933634815,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 1.2654024074449255,
+          "y": -2.3040802237129148,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 28.5,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": 0.4314684702194702,
+          "y": -1.797658220068064,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 1.8813035173025634,
+          "y": -3.012395702794995,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 29,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.9293474408559528,
+          "y": -3.2404172731293053,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -0.3677572260241733,
+          "y": -1.4022634275822086,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 29.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.5054483590744732,
+          "y": -3.1697488912403875,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -0.6561185844052763,
+          "y": -1.4312028718886725,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 30,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.6664539680658536,
+          "y": -2.738407826510231,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -1.704493219935014,
+          "y": -1.2688814293131292,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 30.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.8600655541748184,
+          "y": -1.7728068006128166,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -1.9618179954401922,
+          "y": -1.2248858861963252,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 31,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.7934809105375866,
+          "y": -0.08614743284238066,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -1.6066802995545881,
+          "y": -1.2248859405517578,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 31.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.964697884350473,
+          "y": 0.16915718224642529,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -0.5359770280889241,
+          "y": -1.1174541161384801,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 32,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.3265653230440178,
+          "y": 0.28598625701108843,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 0.6146820876381776,
+          "y": -1.3487427976770108,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 32.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.8466726282987878,
+          "y": -0.8808039008787046,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 0.10079734363600529,
+          "y": -2.7303801314529474,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 33,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.7209909418031805,
+          "y": -1.1484989921246191,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -0.5505597183755643,
+          "y": -3.6074766102258495,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 33.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.30899717883337363,
+          "y": -1.9192496312973628,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -0.7732952646330667,
+          "y": -3.447088471816429,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 34,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.7977290133955608,
+          "y": -0.8863189644318199,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -0.7606985212621713,
+          "y": -2.4227619175373603,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 34.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.4872100179751686,
+          "y": -0.0849699389763325,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -0.62654673238384,
+          "y": -1.663288061525799,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 35,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.684135689352548,
+          "y": 0.20803213828871456,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": -0.3032697371581703,
+          "y": -1.1517002527764881,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 35.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.0250009476580064,
+          "y": -0.1745724960148575,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 0.43009478091553,
+          "y": -1.2397856503158073,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 36,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.25045116208669804,
+          "y": -0.8958245535201412,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 1.2019185113353497,
+          "y": -2.65249202632793,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 36.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.08006472192102465,
+          "y": -0.895824551582337,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 1.7906152761445306,
+          "y": -3.287624096375174,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 37,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.12393304384811085,
+          "y": -0.6421364694501348,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 1.6389668942976112,
+          "y": -3.0619909562071825,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 37.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.4503193756338486,
+          "y": 0.08500252075591366,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Elshorbagy"
+        },
+        "2": {
+          "x": 0.6090375947069683,
+          "y": -2.666532495907595,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Richards"
+        }
+      }
+    },
+    {
+      "time": 237.137496,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.5787991731526048,
+          "y": -1.3447790108158402,
+          "color": "#000000",
+          "visible": true,
+          "name": "James"
+        },
+        "2": {
+          "x": 1.192160064208369,
+          "y": -0.7632033673881959,
+          "color": "#000000",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 237.637496,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.7328962608816856,
+          "y": -1.228415289483128,
+          "color": "#000000",
+          "visible": true,
+          "name": "James"
+        },
+        "2": {
+          "x": 1.1915834744222806,
+          "y": -0.8652292541374262,
+          "color": "#000000",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 238.137496,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "visible": false,
+          "x": -1.7328962608816856,
+          "y": -1.228415289483128,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "visible": false,
+          "x": 1.1915834744222806,
+          "y": -0.8652292541374262,
+          "color": "#000000",
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 238.637496,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.2925291800715395,
+          "y": -2.6547865792825505,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": -0.06916957701713948,
+          "y": -1.2842422215953913,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 239.137496,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.3064852604833839,
+          "y": -3.3289072933348356,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": 0.2624403567830207,
+          "y": -1.3040186108107394,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 239.637496,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.168606717405191,
+          "y": -3.187884698625871,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": 0.20002033900329683,
+          "y": -1.4517250201474374,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 240.137496,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.6196212809181766,
+          "y": -2.8424237487530615,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": 1.5671448471125635,
+          "y": -1.534267095248929,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 240.637496,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.3205411377151746,
+          "y": -2.312288162114907,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": 1.0781007068551491,
+          "y": -1.5548984911926793,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 241.137496,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.5279291876985606,
+          "y": -2.216138492290864,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": 0.3919283558663895,
+          "y": -1.550594652915034,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 241.637496,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.6777712168345391,
+          "y": -2.0781559099879097,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": 0.02718623344129675,
+          "y": -1.6233884255555604,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 242.137496,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.0065856109038387,
+          "y": -2.1948636068976266,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": -0.6283901362840634,
+          "y": -2.299589751488688,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 242.637496,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.2428137489806152,
+          "y": -1.444097399711609,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": -0.5842242023029558,
+          "y": -3.4373141264842704,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 243.137496,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.8888257193919393,
+          "y": -1.5046859741949563,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": -0.5143783265647598,
+          "y": -3.3491516671381527,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 243.637496,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.31723618395038,
+          "y": -1.6090400951965775,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": -0.4139610800738976,
+          "y": -2.642343281489057,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 244.137496,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.8946293661436815,
+          "y": -1.3632257344413703,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": -0.7044417997562701,
+          "y": -2.491834798599273,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 244.637496,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.4162972233094639,
+          "y": -1.3091629391957538,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": -1.3835908249037172,
+          "y": -2.727204764848967,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 245.137496,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.48038429169327795,
+          "y": -1.3055991096916437,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": -0.7824138707667176,
+          "y": -2.754479268710022,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 245.637496,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.3840231479746206,
+          "y": -2.510974537627652,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": -0.512571663036859,
+          "y": -2.7061330651416027,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 246.137496,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.606900988318304,
+          "y": -3.169792033716272,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": -0.7816153250392208,
+          "y": -1.948932628954011,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 246.637496,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.5170588668857962,
+          "y": -2.8993858973474875,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": -1.0835833093214093,
+          "y": -2.0217308575573543,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 247.137496,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.6444734656016953,
+          "y": -2.0189110305658557,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": -1.9005954010721964,
+          "y": -2.8857395028891357,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 247.637496,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.43172950024574225,
+          "y": -1.4673026868074364,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": -2.0580978875292977,
+          "y": -3.43590966697311,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 248.137496,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.7311681115011814,
+          "y": -1.4673026800155637,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": -1.7972272641409701,
+          "y": -3.3588947540644494,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 248.637496,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.0972608205565548,
+          "y": -1.9886736336751265,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": -0.5875092890401866,
+          "y": -3.2662813815894465,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 249.137496,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.7859734087776569,
+          "y": -2.476368036115056,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": -0.5964491636685652,
+          "y": -3.1191307515330084,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 249.637496,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.6098695188293966,
+          "y": -2.5493317475825688,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": -1.0074703789815065,
+          "y": -1.7830017876787125,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 250.137496,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.5820008080367366,
+          "y": -2.302598204540716,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": -1.5268844767617509,
+          "y": -1.608584904939655,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 250.637496,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.3914236230829157,
+          "y": -2.0124630496797113,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": -1.098760259365414,
+          "y": -1.6762800190763119,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 251.137496,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.5131450703960087,
+          "y": -2.0950077914573186,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": -0.5706058525943681,
+          "y": -1.3773504573609905,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 251.637496,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.9600661164719487,
+          "y": -3.334487012716264,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": 0.0673264819512202,
+          "y": -1.3370963868722288,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 252.137496,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.9392461315227976,
+          "y": -3.6359989503956154,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": 0.41729263141674183,
+          "y": -1.4844641894218382,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 252.637496,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.6103549709494407,
+          "y": -3.585326665142554,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": 0.4814740342711426,
+          "y": -1.484464168548584,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 253.137496,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.3840303622223124,
+          "y": -3.5546584271743935,
+          "visible": true,
+          "color": "#000000",
+          "name": "James"
+        },
+        "2": {
+          "x": 0.4814740342711426,
+          "y": -1.484464168548584,
+          "color": "#FF9800",
+          "visible": true,
+          "name": "Coll"
+        }
+      }
+    },
+    {
+      "time": 450.901841,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.703050656713497,
+          "y": -2.16500647916085,
+          "color": "#FFFFFF",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": -0.8607186637439995,
+          "y": -2.468348663602232,
+          "color": "#FFFFFF",
+          "visible": true,
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 451.401841,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.6538919076378864,
+          "y": -1.6109449051780236,
+          "color": "#FFFFFF",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": -0.8263033610842561,
+          "y": -2.04699632579023,
+          "color": "#FFFFFF",
+          "visible": true,
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 451.901841,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.6392688220612237,
+          "y": -1.4120244619266953,
+          "color": "#FFFFFF",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": -0.8705426306470312,
+          "y": -1.453059989694945,
+          "color": "#FFFFFF",
+          "visible": true,
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 452.401841,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.895953950006352,
+          "y": -1.1309458580714504,
+          "color": "#FFFFFF",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": -1.0654110431220223,
+          "y": -1.257836450345462,
+          "color": "#FFFFFF",
+          "visible": true,
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 452.901841,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.7395387456904816,
+          "y": -0.9603087381855231,
+          "color": "#FFFFFF",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": -1.322638978090152,
+          "y": -0.9739396004378321,
+          "color": "#FFFFFF",
+          "visible": true,
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 453.401841,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "visible": false,
+          "x": 1.7395387456904816,
+          "y": -0.9603087381855231,
+          "color": "#FFFFFF",
+          "name": "Elias"
+        },
+        "2": {
+          "visible": false,
+          "x": -1.322638978090152,
+          "y": -0.9739396004378321,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 453.901841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.7956455917924738,
+          "y": -3.5445226508250807,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": 0.3487703187170842,
+          "y": -1.8538833976645583,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 454.401841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.7895248528057185,
+          "y": -3.65112658394739,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": 0.06658375754687812,
+          "y": -1.838255436974713,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 454.901841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.7895248528057185,
+          "y": -3.65112658394739,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": -0.5052931825885212,
+          "y": -1.763126601210772,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 455.401841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.5057549245140612,
+          "y": -2.654115475343195,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": -1.1698998842841126,
+          "y": -2.4746309444400634,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 455.901841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.5198921500406711,
+          "y": -2.058327569272923,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": -1.1698998842841126,
+          "y": -2.4746309444400634,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 456.401841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.025879447986592,
+          "y": -1.6146014076113824,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": -0.5825898364010661,
+          "y": -2.171967575496843,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    }
+  ]
+}
