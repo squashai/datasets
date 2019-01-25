@@ -2485,6 +2485,1644 @@
       }
     },
     {
+      "time": 456.901841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.4707096442142369,
+          "y": -2.4453393735874256,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": -0.5691963397352039,
+          "y": -1.842958291951649,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 457.401841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.9982504482404877,
+          "y": -3.2854618236334154,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": -0.6801699539104458,
+          "y": -1.5087153067851287,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 457.901841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.8890678956259734,
+          "y": -3.497250530401866,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": -0.7983427118715177,
+          "y": -1.550340052495485,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 458.401841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.9678000547369208,
+          "y": -3.283459717081107,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": -1.6431318608439414,
+          "y": -1.2833361064072561,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 458.901841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.7987079087075108,
+          "y": -2.2615759235355988,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": -1.425426287479922,
+          "y": -1.3154385513830964,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 459.401841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.5793610489718004,
+          "y": -2.031575918197632,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": -0.6120633442047962,
+          "y": -1.2934415542689868,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 459.901841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.7853615562083822,
+          "y": -1.7329050844826335,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": -0.18765910416392295,
+          "y": -1.2934415340423582,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 460.401841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.2109552374597436,
+          "y": -1.5664474504568522,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": 0.43017318959310996,
+          "y": -1.5763895662509444,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 460.901841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.71998695959579,
+          "y": -1.5745521249606447,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": 1.0698849414673668,
+          "y": -3.211287835629519,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 461.401841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.215416889806094,
+          "y": -1.5925380172407997,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": 1.0698849414673668,
+          "y": -3.211287835629519,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 461.901841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.3962537535923176,
+          "y": -2.1378515933370617,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": 0.6198904009858461,
+          "y": -2.8756024048565956,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 462.401841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.8672373469741133,
+          "y": -2.212317470419447,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": 0.16658122220158145,
+          "y": -1.6683551601779583,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 462.901841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.102969453086131,
+          "y": -2.217524304196054,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": -0.34697615005749366,
+          "y": -1.976653335499802,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 463.401841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.2662693617804412,
+          "y": -2.0531190091424643,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": -1.1321424473090969,
+          "y": -2.078407761484213,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 463.901841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.7792554120869181,
+          "y": -2.072549860615713,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": -0.7493548711999947,
+          "y": -1.524871788791657,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 464.401841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.954093053130518,
+          "y": -1.5634171219958397,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": -0.5386863407465965,
+          "y": -1.1800965138740307,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 464.901841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.4119060755896269,
+          "y": -1.3410627374284263,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": 0.2508314722372874,
+          "y": -1.1752906108664838,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 465.401841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.48835460587974905,
+          "y": -1.6092540736641676,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": 0.4575601951029628,
+          "y": -1.1788407522627762,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 465.901841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.46014986237848404,
+          "y": -1.7542321728700012,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": 0.4575601951029628,
+          "y": -1.1788407522627762,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 466.401841,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.6912368057779417,
+          "y": -1.7542321681976316,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": 0.7290542349863844,
+          "y": -0.8906365036964417,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 466.901841,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.6912368057779417,
+          "y": -1.7542321681976316,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": 1.4309173232106291,
+          "y": -0.9365862417493478,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 467.401841,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.6127500138888669,
+          "y": -1.7251384593399286,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": 2.177668911755967,
+          "y": -0.8924007000960742,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 467.901841,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.40641372425545463,
+          "y": -1.7504910289738318,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": 2.5835673877038428,
+          "y": -1.4823326782858697,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 468.401841,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.13790648187595775,
+          "y": -1.7504910230636597,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": 2.7,
+          "y": -1.5645456451113304,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 468.901841,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.4922075545832256,
+          "y": -2.0467284746168977,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": 2.7,
+          "y": -2.180267142685351,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 469.401841,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.7840497173768938,
+          "y": -2.3127385118173374,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": 2.7,
+          "y": -2.7064347060564327,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 469.901841,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.306310537627602,
+          "y": -2.340794976949206,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": 2.634332668473569,
+          "y": -2.7659720634768643,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 470.401841,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.306310537627602,
+          "y": -2.340794976949206,
+          "color": "#000000",
+          "visible": true,
+          "name": "Elias"
+        },
+        "2": {
+          "x": 2.634332668473569,
+          "y": -2.7659720634768643,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 470.901841,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "visible": false,
+          "x": -1.306310537627602,
+          "y": -2.340794976949206,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "visible": false,
+          "x": 2.634332668473569,
+          "y": -2.7659720634768643,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 471.401841,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": 0.7985303133127352,
+          "y": -1.8115302132448918,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -1.0007284103823209,
+          "y": -2.086530081884403,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 471.901841,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": 0.008986644040941915,
+          "y": -1.672232896813005,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -1.0454808492201457,
+          "y": -1.9422261573524058,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 472.401841,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -1.3653663808106944,
+          "y": -1.9541710113730704,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -0.9117906848517593,
+          "y": -1.4328327869910695,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 472.901841,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -2.249904722144809,
+          "y": -1.6803272364839021,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -0.6207519077473512,
+          "y": -1.2594619834794305,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 473.401841,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -1.055444138866747,
+          "y": -1.6744750762710232,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": 0.6993508854698527,
+          "y": -1.2807116927774507,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 473.901841,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -0.20448175733231844,
+          "y": -1.8880464937759052,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": 0.4045469798616297,
+          "y": -1.2807116508483887,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 474.401841,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "visible": false,
+          "x": -0.20448175733231844,
+          "y": -1.8880464937759052,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "visible": false,
+          "x": 0.4045469798616297,
+          "y": -1.2807116508483887,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 474.901841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.3497148143822677,
+          "y": -2.953317888175696,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -0.49642341082815855,
+          "y": -1.0909166871026312,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 475.401841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.000505173994733,
+          "y": -4.171312423783427,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -0.554965510077958,
+          "y": -1.090916633605957,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 475.901841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.5805804294531722,
+          "y": -3.929416966953323,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -1.242317729502932,
+          "y": -1.327603693695226,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 476.401841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.9372176375897193,
+          "y": -3.545239582809288,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -1.9402105424165135,
+          "y": -1.2595207573184166,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 476.901841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.8621980237951011,
+          "y": -1.7309429741138602,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -1.601101648798092,
+          "y": -1.259520769119263,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 477.401841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.5533170070741753,
+          "y": -2.05257557907059,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -1.0049538580832154,
+          "y": -1.2927563315553745,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 477.901841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.4934621165289919,
+          "y": -2.0525755882263184,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -0.8086282144880431,
+          "y": -1.2516223195776255,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 478.401841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.709737643600887,
+          "y": -1.8589482879297414,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -1.5858572890756524,
+          "y": -1.5080886400731908,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 478.901841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.5825360331817714,
+          "y": -1.4425027572587807,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -1.9555918578716165,
+          "y": -2.658527402672987,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 479.401841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.4821736861838191,
+          "y": -1.4312308750362077,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -1.9152802163477276,
+          "y": -3.5438297237385536,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 479.901841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.7807428525538704,
+          "y": -1.5682773455784045,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -1.3185107814812633,
+          "y": -3.342269680488989,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 480.401841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.1359855508482297,
+          "y": -2.512045837474792,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -0.6044550287845164,
+          "y": -2.4751137468582467,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 480.901841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.0693208940236407,
+          "y": -3.3281727331586306,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -0.5127024921688297,
+          "y": -1.680397970498231,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 481.401841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.0693208940236407,
+          "y": -3.3281727331586306,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -0.6149936151408729,
+          "y": -1.5916308914585087,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 481.901841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.0523278326710739,
+          "y": -2.434342771043618,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -1.353795793777337,
+          "y": -0.7514507915155402,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 482.401841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.9844372279392926,
+          "y": -1.2824424990714727,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -1.6423273054102219,
+          "y": 0.3113817265283968,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 482.901841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.5646058184049565,
+          "y": -0.8384351787603173,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -1.3974118348035485,
+          "y": 0.2464970614075872,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 483.401841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.8130277169770659,
+          "y": -1.2308126489483437,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -0.7732092379263678,
+          "y": -0.14600826135220527,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 483.901841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.0543323652950636,
+          "y": -2.3446496383937596,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": 0.047410994544506486,
+          "y": -0.8154981277337328,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 484.401841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.199079867663137,
+          "y": -2.3394732428476765,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": 0.06779552104857658,
+          "y": -0.6065396425331709,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 484.901841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.7287648008126286,
+          "y": -1.7422439939312526,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -0.8409835132546092,
+          "y": 0.7789304923863355,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 485.401841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.4954710744287721,
+          "y": -1.0880405149250356,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -1.4389195729847482,
+          "y": 1.367515206801769,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 485.901841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.7795799502577534,
+          "y": -1.2150633649620406,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -1.16627811691082,
+          "y": 0.2872468076092062,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 486.401841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.3602496981899855,
+          "y": -1.3010192569576189,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -0.011970540500649064,
+          "y": -0.4079312230982236,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 486.901841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.2591475302563218,
+          "y": -1.3010193109512325,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": 1.2990947683972753,
+          "y": -1.5846657566471445,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 487.401841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.2557199426172897,
+          "y": -1.454967521954725,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": 2.2184810291894608,
+          "y": -3.317920111701582,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 487.901841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.2557199426172897,
+          "y": -1.454967521954725,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": 2.2184810291894608,
+          "y": -3.317920111701582,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 488.401841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.5038955916775586,
+          "y": -1.426677856116289,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": 1.625985910188865,
+          "y": -3.2952192037048516,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 488.901841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.5038955916775586,
+          "y": -1.426677856116289,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": 1.6324255689184632,
+          "y": -3.0141545737873967,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 489.401841,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.5038955916775586,
+          "y": -1.426677856116289,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": 1.3264548917023082,
+          "y": -1.333867392948143,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 489.901841,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.5114423475942741,
+          "y": -1.2147296927265332,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": 0.3963553295308282,
+          "y": 0.13812279243895115,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 490.401841,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.5114423475942741,
+          "y": -1.2147296927265332,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": 0.17168769010431956,
+          "y": 1.107100279804222,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 490.901841,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.30752640420383387,
+          "y": -1.7545689764430255,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": 0.18252879523877855,
+          "y": 1.7373631264252825,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 491.401841,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.49730545774682117,
+          "y": -2.024430323930528,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -0.002364794264017986,
+          "y": 2.716484635234374,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 491.901841,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.5579822350010274,
+          "y": -2.502449453677004,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -0.5062206150836972,
+          "y": 3.092952120989513,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 492.401841,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.7631877556587711,
+          "y": -3.2912744344533533,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -1.4314324754241516,
+          "y": 3.0486608431403384,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 492.901841,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.9567893356620871,
+          "y": -3.8211842295015463,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -1.899886525540984,
+          "y": 2.5272784521416605,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 493.901841,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.7204465361087125,
+          "y": -4.375,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -2.564009062688633,
+          "y": 1.009032105161804,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 494.401841,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.8235523028725404,
+          "y": -4.375,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -2.670732761267673,
+          "y": 0.3841402175103864,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 494.901841,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.8433183405148081,
+          "y": -4.283219857798372,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -2.6474956359784048,
+          "y": 0.28093765247768426,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 495.401841,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.697676039991304,
+          "y": -3.933303224771499,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -2.674326724896373,
+          "y": -0.30828625195154835,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
+      "time": 495.901841,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.5413894062197215,
+          "y": -3.347388513239764,
+          "visible": true,
+          "color": "#000000",
+          "name": "Elias"
+        },
+        "2": {
+          "x": -2.4093339049310525,
+          "y": -0.9587053232111522,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Farag"
+        }
+      }
+    },
+    {
       "time": 828.118379,
       "action": true,
       "replay": false,
