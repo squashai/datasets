@@ -5339,6 +5339,1077 @@
           "name": "Gilis"
         }
       }
+    },
+    {
+      "time": 581.780287,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -0.588778707671632,
+          "y": -2.2231760389058834,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": 0.6830461308217227,
+          "y": -1.7180994841519128,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 582.280287,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -0.264087459359386,
+          "y": -1.9856784600670412,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": 1.682320388483355,
+          "y": -2.4743283962272926,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 582.780287,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -0.2736376680031999,
+          "y": -1.9984870145331675,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": 2.104682277803754,
+          "y": -2.852934259115082,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 583.280287,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -0.678298271018381,
+          "y": -2.0707921320512788,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": 1.928940695531831,
+          "y": -2.4416008828149156,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 583.780287,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -1.4711957520038073,
+          "y": -2.1273067768043465,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": 0.987424377159113,
+          "y": -2.1209111095853825,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 584.280287,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -1.3673458818201156,
+          "y": -2.0798078790323875,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": 0.010208591109724965,
+          "y": -1.9833681747737717,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 584.780287,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -0.6948472195057004,
+          "y": -2.0595282024532184,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -0.901152686297142,
+          "y": -1.8252884970371694,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 585.280287,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -0.5758697435432674,
+          "y": -2.196980750497093,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -1.0256831687948655,
+          "y": -1.7996202802734511,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 585.780287,
+      "action": false,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -0.2625967140830003,
+          "y": -2.1384551954827606,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -1.0256831687948655,
+          "y": -1.7996202802734511,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 586.280287,
+      "action": false,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": 0.29822486143408883,
+          "y": -2.116909422111298,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -1.0256831687948655,
+          "y": -1.7996202802734511,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 586.780287,
+      "action": false,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": 0.7537245823206664,
+          "y": -1.8161628215179684,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -1.0256831687948655,
+          "y": -1.7996202802734511,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 587.280287,
+      "action": false,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": 1.1189436971456945,
+          "y": -1.7401286336182267,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -1.0256831687948655,
+          "y": -1.7996202802734511,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 587.780287,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -0.9415160447526226,
+          "y": -2.0537037193393335,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": 0.16109159621724903,
+          "y": -1.3370377909005888,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 588.280287,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -0.435434242261333,
+          "y": -1.534947241282837,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": 1.6055312191920907,
+          "y": -1.9629745828397702,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 588.780287,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -0.19249311046207743,
+          "y": -1.5409759786950998,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": 2.1588630503521915,
+          "y": -2.529786823116821,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 589.280287,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -0.733106439583726,
+          "y": -1.9352086099850412,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": 1.453694696211843,
+          "y": -2.0791408780037637,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 589.780287,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -1.6216646103226162,
+          "y": -2.0062496392717195,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": 0.9426960913463107,
+          "y": -2.003181241042907,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 590.280287,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -1.5556983858404931,
+          "y": -2.0006251121614618,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -0.09723416559224725,
+          "y": -1.8038069487545214,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 590.780287,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -0.7691660551126256,
+          "y": -1.9265884373199489,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -0.8703978897198409,
+          "y": -1.6090626121214315,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 591.280287,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -0.5786602647895769,
+          "y": -1.8962903532301958,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -1.0385415295772076,
+          "y": -1.624267584230904,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 591.780287,
+      "action": false,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -0.495875192565052,
+          "y": -1.7212326475260673,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -1.051812055532631,
+          "y": -1.4991282926310752,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 592.280287,
+      "action": false,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -0.10732957409663162,
+          "y": -1.6846715211868288,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -1.051812055532631,
+          "y": -1.4991282926310752,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 592.780287,
+      "action": false,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": 0.5219480034764126,
+          "y": -1.7238130602590067,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -0.9871333138275834,
+          "y": -1.4991283416748045,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 593.280287,
+      "action": false,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": 0.6982064201920435,
+          "y": -1.7510579386452267,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -0.9871333138275834,
+          "y": -1.4991283416748045,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 593.780287,
+      "action": false,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": 0.9414441972673739,
+          "y": -1.5420833442468824,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -0.9871333138275834,
+          "y": -1.4991283416748045,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 594.280287,
+      "action": false,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": 1.1787510838536621,
+          "y": -1.5019624878981,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -1.0852670294900502,
+          "y": -1.4991283416748045,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 594.780287,
+      "action": false,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": 1.686690989505902,
+          "y": -1.3798123370135875,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -1.2035959430212886,
+          "y": -1.5083202236155187,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 595.280287,
+      "action": false,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": 2.164919207020096,
+          "y": -1.3001893015331913,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -1.9203687391528783,
+          "y": -1.4686802045792104,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 595.780287,
+      "action": false,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": 2.3259131252227934,
+          "y": -1.2306864620497735,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -2.213627009466368,
+          "y": -1.4907372183590084,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 596.280287,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "visible": false,
+          "x": 2.3259131252227934,
+          "y": -1.2306864620497735,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "visible": false,
+          "x": -2.213627009466368,
+          "y": -1.4907372183590084,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 596.780287,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "visible": false,
+          "x": 2.3259131252227934,
+          "y": -1.2306864620497735,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "visible": false,
+          "x": -2.213627009466368,
+          "y": -1.4907372183590084,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 597.280287,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "visible": false,
+          "x": 2.3259131252227934,
+          "y": -1.2306864620497735,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "visible": false,
+          "x": -2.213627009466368,
+          "y": -1.4907372183590084,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 600.780287,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.0773397367601758,
+          "y": -4.375,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -1.7804136267520758,
+          "y": 1.4825853907462243,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 601.280287,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.3933799237999156,
+          "y": -4.375,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -1.6698111430245919,
+          "y": 1.5175106375620615,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 601.780287,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.9048232148892899,
+          "y": -4.267699240370205,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -1.2275898053376713,
+          "y": 1.7083366845584553,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 602.280287,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.0179743192225503,
+          "y": -3.956440765292219,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -1.2275898053376713,
+          "y": 1.7083366845584553,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 602.780287,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.1675316120135446,
+          "y": -3.029972689650508,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -1.25798052298875,
+          "y": 2.080193481333364,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 603.280287,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.1041586002924073,
+          "y": -2.8697444258750284,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -1.1608026327109964,
+          "y": 2.781504831975483,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 603.780287,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.8205822178062046,
+          "y": -2.7404650607188237,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -1.1976317931344218,
+          "y": 3.356171016853345,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 604.280287,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.828562367880367,
+          "y": -2.280960924355133,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -1.6269852501683326,
+          "y": 4.310828046354821,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 604.780287,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.7934257666753188,
+          "y": -1.4711308448412619,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -1.6269852501683326,
+          "y": 4.310828046354821,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 605.280287,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.7722744480041401,
+          "y": -0.6588124920836164,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -1.6269852501683326,
+          "y": 4.310828046354821,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 605.780287,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.4909120067421648,
+          "y": 0.1391940009795789,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -1.6056214233389017,
+          "y": 4.103284124444998,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 606.280287,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.5165103458904436,
+          "y": 0.3619508508297923,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -1.5512222205143311,
+          "y": 3.538940356214043,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 606.780287,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.4538533229491812,
+          "y": 0.4464597351538641,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -1.2537316726199392,
+          "y": 2.918367018478702,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 607.280287,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.8512611748497192,
+          "y": 0.5436084693664103,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -1.1055947782422144,
+          "y": 1.756297164967182,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 607.780287,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.1783542146795707,
+          "y": 0.44912732105923575,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -0.9738477030430672,
+          "y": 1.0088573410920432,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 608.280287,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.2833786838253687,
+          "y": 0.3510540595508559,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -0.7836318613075033,
+          "y": 0.5239570039013886,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 608.780287,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.2507733558562886,
+          "y": 0.16968982611916292,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -0.7429161037315853,
+          "y": 0.2946787169254309,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 609.280287,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.2558222285856284,
+          "y": -0.28129978394044064,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -0.7450947685386742,
+          "y": -0.04011691195026916,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
+    },
+    {
+      "time": 609.780287,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.1969487717809635,
+          "y": -0.840434619839159,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Tomlinson"
+        },
+        "2": {
+          "x": -0.6656882495518347,
+          "y": -0.9700649729334474,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Gilis"
+        }
+      }
     }
   ]
 }
