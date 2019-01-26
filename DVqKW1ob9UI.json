@@ -1,0 +1,976 @@
+{
+  "source": {
+    "name": "DVqKW1ob9UI.mp4",
+    "title": "\"This is quality, such good squash!\" - MegaRally - Gaultier v Farag - US Open 2018",
+    "url": "https://gitlab.com/squashai/media/raw/master/DVqKW1ob9UI.mp4",
+    "type": "video/mp4"
+  },
+  "labels": [
+    {
+      "time": 60.380794,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.8224014206901754,
+          "y": -1.259793026289399,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": 0.556882682594672,
+          "y": -2.3963280368433866,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 60.880794,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.3414852081148414,
+          "y": -2.265217092201275,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": 0.5607616843928708,
+          "y": -2.0918468480140078,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 61.380794,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.3414852081148414,
+          "y": -2.265217092201275,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": 0.23031463495110585,
+          "y": -1.7970021386336568,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 61.880794,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.9801148335022611,
+          "y": -2.2940998238684513,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": 0.9791212296540481,
+          "y": -1.3109419069983805,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 62.380794,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.6311116411578158,
+          "y": -1.8362532720846645,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": 1.4083017221144356,
+          "y": -2.131290318412309,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 62.880794,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.5024435817480889,
+          "y": -1.7780005142566508,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": 2.126318889153456,
+          "y": -2.9259884290710816,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 63.380794,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.5024435817480889,
+          "y": -1.7780005142566508,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": 2.126318889153456,
+          "y": -2.9259884290710816,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 63.880794,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.47281883557827803,
+          "y": -1.1409378685697695,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": 1.229840124042319,
+          "y": -2.511299493309557,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 64.380793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.0708275974878676,
+          "y": 0.6377732147871426,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": 0.7041065092029009,
+          "y": -1.3176492943929417,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 64.880793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.191854132748669,
+          "y": 1.7016590394765483,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": 0.06007028638319469,
+          "y": -0.00011942533253037589,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 65.380793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.1821506270446904,
+          "y": 1.6617937521609807,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": 0.8022174948691538,
+          "y": 1.7334136046235669,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 65.880793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.01980654998541002,
+          "y": 0.4579204324272423,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": 1.2422275549205588,
+          "y": 3.110328866710834,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 66.380793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.0271618835698748,
+          "y": 0.6812317647231435,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": 1.111864649332553,
+          "y": 2.8384440662591035,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 66.880793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.249013877815268,
+          "y": 2.7580239863897837,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": 0.9967289799072754,
+          "y": 2.8300210611574794,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 67.380793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.208231886085643,
+          "y": 1.9161407413531133,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": 0.12030818489479407,
+          "y": 1.469066588428118,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 67.880793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.4773382926777083,
+          "y": 0.6543864580678488,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": -0.9405881206858168,
+          "y": -0.46609011652809135,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 68.380793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.6618709366544884,
+          "y": 0.02802274384336396,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": -1.0021255027272735,
+          "y": -2.6377497362393356,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 68.880793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.3474535614367635,
+          "y": -0.5785473721797436,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": -1.040401776477772,
+          "y": -4.088373921160897,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 69.380793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.008641886794228292,
+          "y": -0.4599968012961432,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": -0.5200065657994238,
+          "y": -4.161126769292811,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 69.880793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.27393317197949824,
+          "y": -0.014804912129919856,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": -0.05390415457628554,
+          "y": -3.9186123727021953,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 70.380793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.2889128235371893,
+          "y": 0.6337915338409967,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": -0.025199267437978925,
+          "y": -2.200051631747206,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 70.880793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.2889128235371893,
+          "y": 0.6337915338409967,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": -0.017696945737740232,
+          "y": -1.4293194177834978,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 71.380793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.2889128235371893,
+          "y": 0.6337915338409967,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": 0.6689779566787869,
+          "y": -0.9076984367720996,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 71.880793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.4488650575527267,
+          "y": 0.30396212179675164,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": 1.23452599298564,
+          "y": 0.744646019682188,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 72.380793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.2513524762464757,
+          "y": 0.13466870269494713,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": 1.2842175167493095,
+          "y": 1.3325627116773113,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 72.880793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.5009789640053478,
+          "y": -1.143366293758465,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": 0.7946699163338036,
+          "y": 0.9542656803674259,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 73.380793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.1154522140795387,
+          "y": -3.6231396330268284,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": 0.024892684167871177,
+          "y": 0.19601779446040393,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 73.880793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.3328161009902462,
+          "y": -3.8001835745020776,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": -0.5989360779128167,
+          "y": -0.0031048600443947193,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 74.380793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.2902655774379836,
+          "y": -3.6459992940951156,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": -1.4536818998994745,
+          "y": 0.17449138651852145,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 74.880793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.8780663159586518,
+          "y": -1.846646100644685,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": -1.6090742932148188,
+          "y": 0.5129076891644063,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 75.380793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.0323164326215999,
+          "y": -1.7475490472156927,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": -1.1707830597220399,
+          "y": 0.4840681420742211,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 75.880793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.0323164326215999,
+          "y": -1.7475490472156927,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": -0.6154551510664348,
+          "y": -0.5160305665445651,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 76.380793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.865251683312226,
+          "y": -1.869575180819395,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": -1.3280379523018433,
+          "y": -0.9293469938425345,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 76.880793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.8875685212705741,
+          "y": -1.5932816382480925,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": -1.619621103552956,
+          "y": -0.9257024516980096,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 77.380793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.0142044245188633,
+          "y": -1.5756211261940831,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": -0.8486979048844262,
+          "y": -1.0403619688714059,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 77.880793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.0879619864539876,
+          "y": -2.247758436856797,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": -0.3965713171228146,
+          "y": -1.1216860026718085,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 78.380793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.0179500300045632,
+          "y": -2.815412168560084,
+          "color": "#F44336",
+          "name": "Gaultier",
+          "visible": true
+        },
+        "2": {
+          "x": -0.03389309216389365,
+          "y": -1.0804529699355458,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 78.880793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.0179500300045632,
+          "y": -2.815412168560084,
+          "visible": false,
+          "color": "#F44336",
+          "name": "Gaultier"
+        },
+        "2": {
+          "x": -0.2161582928824236,
+          "y": -1.2232680336318833,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 79.380793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.0179500300045632,
+          "y": -2.815412168560084,
+          "visible": false,
+          "color": "#F44336",
+          "name": "Gaultier"
+        },
+        "2": {
+          "x": -0.10997389971268193,
+          "y": -1.4670105551897539,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 79.880793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.9182928955740154,
+          "y": -2.8154122829437256,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Gaultier"
+        },
+        "2": {
+          "x": 0.6953464677066405,
+          "y": -1.5148538381971366,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 80.380793,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.040187253489462484,
+          "y": -2.03639985503489,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Gaultier"
+        },
+        "2": {
+          "x": 1.4953495094148872,
+          "y": -2.0289251473225454,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 83.677321,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.0036366952154947576,
+          "y": -1.0256824596189524,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Gaultier"
+        },
+        "2": {
+          "x": -1.7871873883293543,
+          "y": 0.336989827530075,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 84.177321,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.5770231519106626,
+          "y": -0.10406703497655609,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Gaultier"
+        },
+        "2": {
+          "x": -1.780716991156955,
+          "y": 0.2935001321279181,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 84.677321,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.507030036404056,
+          "y": 0.5223907713381319,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Gaultier"
+        },
+        "2": {
+          "x": -1.51387084325175,
+          "y": -0.5741799549960943,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 85.177321,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.8580569471325348,
+          "y": 1.0136291532758999,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Gaultier"
+        },
+        "2": {
+          "x": -1.3558547724836185,
+          "y": -0.61199090409535,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 87.693608,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.8327298562134695,
+          "y": 0.4818797334659516,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Gaultier"
+        },
+        "2": {
+          "x": -1.146519920405468,
+          "y": -0.6179550881301623,
+          "name": "Farag",
+          "color": "#000000",
+          "visible": true
+        }
+      }
+    }
+  ]
+}
