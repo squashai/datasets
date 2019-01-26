@@ -6496,6 +6496,27 @@
       }
     },
     {
+      "time": 845.322471,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.2660770062142372,
+          "y": -2.048572549736181,
+          "color": "#4CAF50",
+          "visible": true,
+          "name": "Salem"
+        },
+        "2": {
+          "x": -0.3309232325853536,
+          "y": -1.5405872656590414,
+          "color": "#9C27B0",
+          "visible": true,
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
       "time": 845.618379,
       "action": true,
       "replay": false,
@@ -6512,6 +6533,27 @@
           "y": -0.5226379329738098,
           "visible": true,
           "color": "#9C27B0",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 845.822471,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.6051199566971805,
+          "y": -1.451104865830556,
+          "color": "#4CAF50",
+          "visible": true,
+          "name": "Salem"
+        },
+        "2": {
+          "x": -1.582989548254249,
+          "y": 0.8648747475316829,
+          "color": "#9C27B0",
+          "visible": true,
           "name": "Rodriguez"
         }
       }
@@ -6538,6 +6580,27 @@
       }
     },
     {
+      "time": 846.322471,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.2531152561927066,
+          "y": -0.8903532220987973,
+          "color": "#4CAF50",
+          "visible": true,
+          "name": "Salem"
+        },
+        "2": {
+          "x": -2.7,
+          "y": 1.6875919507555928,
+          "color": "#9C27B0",
+          "visible": true,
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
       "time": 846.618379,
       "action": true,
       "replay": false,
@@ -6554,6 +6617,27 @@
           "y": 1.3693641218095458,
           "visible": true,
           "color": "#9C27B0",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 846.822471,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.3838580433971163,
+          "y": 0.19173972077094703,
+          "color": "#4CAF50",
+          "visible": true,
+          "name": "Salem"
+        },
+        "2": {
+          "x": -2.355869184686555,
+          "y": 1.5548646381077114,
+          "color": "#9C27B0",
+          "visible": true,
           "name": "Rodriguez"
         }
       }
@@ -6580,6 +6664,27 @@
       }
     },
     {
+      "time": 847.322471,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.1106429326068392,
+          "y": 1.5722460175434796,
+          "color": "#4CAF50",
+          "visible": true,
+          "name": "Salem"
+        },
+        "2": {
+          "x": -1.608104640515146,
+          "y": 1.1607927570021819,
+          "color": "#9C27B0",
+          "visible": true,
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
       "time": 847.618379,
       "action": true,
       "replay": false,
@@ -6596,6 +6701,27 @@
           "y": 0.04125880287765149,
           "visible": true,
           "color": "#9C27B0",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 847.822471,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.612558722068757,
+          "y": 2.0781929619371553,
+          "color": "#4CAF50",
+          "visible": true,
+          "name": "Salem"
+        },
+        "2": {
+          "x": -0.6604438479214736,
+          "y": -0.2908496872460148,
+          "color": "#9C27B0",
+          "visible": true,
           "name": "Rodriguez"
         }
       }
@@ -6685,6 +6811,27 @@
       }
     },
     {
+      "time": 849.735903,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.7367805540630309,
+          "y": 0.33168091267151834,
+          "color": "#4CAF50",
+          "visible": true,
+          "name": "Salem"
+        },
+        "2": {
+          "x": -1.3804193358925894,
+          "y": -3.529817434949972,
+          "color": "#9C27B0",
+          "visible": true,
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
       "time": 850.118379,
       "action": true,
       "replay": false,
@@ -6706,6 +6853,27 @@
       }
     },
     {
+      "time": 850.235903,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.516344938081385,
+          "y": 1.6009139088566078,
+          "color": "#4CAF50",
+          "visible": true,
+          "name": "Salem"
+        },
+        "2": {
+          "x": -0.6770559989970737,
+          "y": -2.5082979678284736,
+          "color": "#9C27B0",
+          "visible": true,
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
       "time": 850.618379,
       "action": true,
       "replay": false,
@@ -6722,6 +6890,27 @@
           "y": -1.8738329410552979,
           "visible": true,
           "color": "#9C27B0",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 850.735903,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.516344938081385,
+          "y": 1.6009139088566078,
+          "color": "#4CAF50",
+          "visible": true,
+          "name": "Salem"
+        },
+        "2": {
+          "x": -0.4939010606644711,
+          "y": -1.903409194406161,
+          "color": "#9C27B0",
+          "visible": true,
           "name": "Rodriguez"
         }
       }
@@ -6869,6 +7058,216 @@
           "y": -1.7109155279659185,
           "visible": true,
           "color": "#9C27B0",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 855.870605,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.9590325074144765,
+          "y": -1.9155671222554522,
+          "color": "#4CAF50",
+          "visible": true,
+          "name": "Salem"
+        },
+        "2": {
+          "x": -0.2081377524963687,
+          "y": -0.9035271288874632,
+          "color": "#9C27B0",
+          "visible": true,
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 856.370605,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.5971314221963476,
+          "y": -1.3328124401938801,
+          "color": "#4CAF50",
+          "visible": true,
+          "name": "Salem"
+        },
+        "2": {
+          "x": -1.588827843183399,
+          "y": 1.0366783750791366,
+          "color": "#9C27B0",
+          "visible": true,
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 856.870605,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.5971314221963476,
+          "y": -1.3328124401938801,
+          "color": "#4CAF50",
+          "visible": true,
+          "name": "Salem"
+        },
+        "2": {
+          "x": -1.588827843183399,
+          "y": 1.0366783750791366,
+          "color": "#9C27B0",
+          "visible": true,
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 862.600756,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.4612852013075124,
+          "y": -0.837064168925922,
+          "color": "#4CAF50",
+          "visible": true,
+          "name": "Salem"
+        },
+        "2": {
+          "x": 1.3893808577048685,
+          "y": 1.0000846790639166,
+          "color": "#9C27B0",
+          "visible": true,
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 863.100756,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.3121651953262454,
+          "y": -0.6020748263304411,
+          "color": "#4CAF50",
+          "visible": true,
+          "name": "Salem"
+        },
+        "2": {
+          "x": 2.438230586214193,
+          "y": 2.103350818898316,
+          "color": "#9C27B0",
+          "visible": true,
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 863.600756,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.7531236435229647,
+          "y": 1.243927860653728,
+          "color": "#4CAF50",
+          "visible": true,
+          "name": "Salem"
+        },
+        "2": {
+          "x": 1.8368528643809627,
+          "y": 1.364875705744105,
+          "color": "#9C27B0",
+          "visible": true,
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 864.100756,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.6475659123311095,
+          "y": 1.707785953029117,
+          "color": "#4CAF50",
+          "visible": true,
+          "name": "Salem"
+        },
+        "2": {
+          "x": 1.0306094854165746,
+          "y": 0.6602538132466211,
+          "color": "#9C27B0",
+          "visible": true,
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 867.179873,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.3664195841536109,
+          "y": 2.7425367059937544,
+          "color": "#4CAF50",
+          "visible": true,
+          "name": "Salem"
+        },
+        "2": {
+          "x": -0.5537528637788268,
+          "y": -2.2801612671579945,
+          "color": "#9C27B0",
+          "visible": true,
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 867.679873,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.3489891683695383,
+          "y": 2.2154958168937977,
+          "color": "#4CAF50",
+          "visible": true,
+          "name": "Salem"
+        },
+        "2": {
+          "x": -0.5673134025722608,
+          "y": -2.6014395919388256,
+          "color": "#9C27B0",
+          "visible": true,
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 868.179873,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.2723485705985569,
+          "y": 1.249079181152176,
+          "color": "#4CAF50",
+          "visible": true,
+          "name": "Salem"
+        },
+        "2": {
+          "x": -1.0136295082781157,
+          "y": -3.2325642238029397,
+          "color": "#9C27B0",
+          "visible": true,
           "name": "Rodriguez"
         }
       }
