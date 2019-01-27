@@ -1013,6 +1013,762 @@
           "name": "Rodriguez"
         }
       }
+    },
+    {
+      "time": 1218.645044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.7917983797934515,
+          "y": -1.3005633354187012,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": 0.6752165088463286,
+          "y": -1.3090659993903169,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1219.145044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.44489453963424963,
+          "y": -1.4167761642992849,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": -0.8240783329754613,
+          "y": -0.8080408844373604,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1219.645044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.23817305487010956,
+          "y": -1.1792138413390691,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": -1.0154190984147957,
+          "y": -1.8059670902561136,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1220.145044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.9879328110811814,
+          "y": -1.3344775885220925,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": -0.41081324654689866,
+          "y": -1.7093247072591893,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1220.645044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.556035476749643,
+          "y": -1.6160162090604235,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": -0.46204925153060994,
+          "y": -1.6066865288886514,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1221.145044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.118397933915219,
+          "y": -1.9920406648973477,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": -0.9326043259560975,
+          "y": -1.0155300611266422,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1221.645044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.7104077621672642,
+          "y": -1.3252816530602203,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": -2.3629496730464274,
+          "y": 0.5265464968460478,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1222.145044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.574891689712616,
+          "y": -1.1843455344265037,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": -2.1374020629205046,
+          "y": 0.5385627415635696,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1222.645044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.2518468136769536,
+          "y": -0.8952538870686213,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": -1.0402268427311394,
+          "y": -0.5393235569671295,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1223.145044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.6817486569521388,
+          "y": -0.6289684233175242,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": 0.452307975749159,
+          "y": -0.016752127889642664,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1223.645044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.430987426528633,
+          "y": -0.6289684176445011,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": 2.178050855552677,
+          "y": 0.36221106817269144,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1224.145044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.4362661626950999,
+          "y": -0.5075449038211826,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": 2.7,
+          "y": 0.6429187165841045,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1224.645044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.47975841730688495,
+          "y": 0.4928794720452638,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": 2.6397708268043156,
+          "y": 0.5972344569443662,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1225.145044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.3171378972861517,
+          "y": 0.5873574685512917,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": 1.9670469749557742,
+          "y": -0.511470910817567,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1225.645044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.31262735949849946,
+          "y": 0.3752505714798218,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": 0.8888424076987503,
+          "y": 0.5696166094152101,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1226.145044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.04326402131547905,
+          "y": 0.24446034341585515,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": -0.5111746352629075,
+          "y": 1.1305854595948002,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1226.645044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.14883902901904844,
+          "y": 0.18386379163563138,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": -1.5413563174551475,
+          "y": 2.2530517371979766,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1227.145044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.2951779066469777,
+          "y": 1.1449733079639617,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": -1.3818384921590734,
+          "y": 2.26648584438944,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1227.645044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.0042808270163843,
+          "y": 2.3155719128197725,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": -0.8115976421454011,
+          "y": 0.9290007639309941,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1228.145044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.3723110143298178,
+          "y": 2.3411280969631045,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": -1.2369630388366788,
+          "y": 0.7872162860286348,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1228.645044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.0231519726979215,
+          "y": 2.129020729577854,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": -2.077268996097965,
+          "y": 2.1292458401784566,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1229.145044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.01905666618320027,
+          "y": 1.2132433875881212,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": -2.4454386029976996,
+          "y": 2.624232239569153,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1229.645044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.33862121025666575,
+          "y": 1.2285304272723245,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": -2.2855858186429843,
+          "y": 1.7697642509322153,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1230.145044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.027022257388887905,
+          "y": 0.09528750957559903,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": -1.186420984299961,
+          "y": 0.12539951627093107,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1230.645044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.6555922651736984,
+          "y": -0.5309299045589668,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": 0.5110488542803844,
+          "y": -1.5586274351800629,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1231.145044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.593372132260433,
+          "y": -0.8245577370907737,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": 2.245473094227388,
+          "y": -2.9378165784044716,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1231.645044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.0620629414490221,
+          "y": -0.6094087062136924,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": 2.7,
+          "y": -3.359647481802373,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1232.145044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.532713378641072,
+          "y": -0.6440106382148238,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": 2.2706820769899743,
+          "y": -3.0141895529087863,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1232.645044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.0521936735009494,
+          "y": -1.0479328096348612,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": 1.3372846103387888,
+          "y": -1.581245402514352,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1233.145044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.5590021068899458,
+          "y": -1.0218141765697808,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": 2.220381447760845,
+          "y": 0.11258163111899418,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1233.645044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.33932978509145684,
+          "y": -0.5303037957791963,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": 2.7,
+          "y": 2.028093335740919,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1234.145044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.7532503445545742,
+          "y": 1.0484251288908069,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": 2.232050352137016,
+          "y": 1.3291131258010864,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1234.645044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.7151791468596156,
+          "y": 2.322262010071747,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": 0.046552964979720474,
+          "y": 1.2092765707827073,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1235.145044,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.7151791468596156,
+          "y": 2.322262010071747,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": -1.919259927559672,
+          "y": 1.420116344773195,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1236.145044,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.126729988489625,
+          "y": 0.9579184831703994,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": -2.6844930127563793,
+          "y": 1.1767782485683267,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
+    },
+    {
+      "time": 1236.645044,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.9292445176439866,
+          "y": 0.14547143066333418,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rosner"
+        },
+        "2": {
+          "x": -2.7,
+          "y": 0.6475170765909045,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Rodriguez"
+        }
+      }
     }
   ]
 }
