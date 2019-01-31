@@ -1,0 +1,1396 @@
+{
+  "source": {
+    "name": "GMhg_MLCyLQ.mp4",
+    "title": "Squash: CIB Black Ball Squash Open 2018 - Rd 2 Roundup P3",
+    "url": "https://gitlab.com/squashai/media/raw/master/GMhg_MLCyLQ.mp4",
+    "type": "video/mp4"
+  },
+  "labels": [
+    {
+      "time": 0,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "visible": false,
+          "name": null,
+          "color": "#FFFFFF",
+          "x": -2,
+          "y": -2
+        },
+        "2": {
+          "visible": false,
+          "name": null,
+          "color": "#000000",
+          "x": 2,
+          "y": -2
+        }
+      }
+    },
+    {
+      "time": 0.5,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "visible": false,
+          "name": null,
+          "color": "#FFFFFF",
+          "x": -2,
+          "y": -2
+        },
+        "2": {
+          "visible": false,
+          "name": null,
+          "color": "#000000",
+          "x": 2,
+          "y": -2
+        }
+      }
+    },
+    {
+      "time": 1,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "visible": false,
+          "name": null,
+          "color": "#FFFFFF",
+          "x": -2,
+          "y": -2
+        },
+        "2": {
+          "visible": false,
+          "name": null,
+          "color": "#000000",
+          "x": 2,
+          "y": -2
+        }
+      }
+    },
+    {
+      "time": 13,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "visible": false,
+          "name": null,
+          "color": "#FFFFFF",
+          "x": -2,
+          "y": -2
+        },
+        "2": {
+          "visible": false,
+          "name": null,
+          "color": "#000000",
+          "x": 2,
+          "y": -2
+        }
+      }
+    },
+    {
+      "time": 17,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.1253655698635385,
+          "y": -1.1467220440115018,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": 1.3468257401060495,
+          "y": -1.084412734482128,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 17.5,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.4921543977794405,
+          "y": -1.2064606276781373,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": 1.3468257401060495,
+          "y": -1.084412734482128,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 18,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.6560651959997374,
+          "y": -1.0160924558579514,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": 1.2364011234578822,
+          "y": -1.1161438898210112,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 23.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.42361821396257776,
+          "y": -2.424537085328622,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": -1.1800973709049258,
+          "y": -2.380676503532271,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 24,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.680286664772507,
+          "y": -1.917622902084458,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": -1.126605120710995,
+          "y": -3.238318156173233,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 24.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.546312294542773,
+          "y": -2.0191794171772846,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": -0.5346224657938299,
+          "y": -2.4660921325568865,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 25,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.64000357094655,
+          "y": -2.019179344177246,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": -0.4806293506565432,
+          "y": -1.496049407622488,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 25.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.6555364160579298,
+          "y": -2.699226751704954,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": -0.9803276920828095,
+          "y": -1.7015576050608314,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 26,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.4279027872705438,
+          "y": -2.2045937034137055,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": -1.3081293919107604,
+          "y": -2.3066274220375287,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 32.309303,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.5271534528793757,
+          "y": -1.3520777928776875,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": -0.9933092256177296,
+          "y": 0.30299003002112085,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 32.809303,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.2514181595028147,
+          "y": -0.5441759642721988,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": -0.6852473188568654,
+          "y": 0.3109232300264361,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 33.309303,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.1671475191157445,
+          "y": 1.5627210586692992,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": -0.7636647246437014,
+          "y": 0.16220855889197203,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 33.809303,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.1282189570400756,
+          "y": 1.308223204900576,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": -0.4784868877870617,
+          "y": -0.24220051907556162,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 34.309303,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.5163406685691165,
+          "y": 0.6346531992100031,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": 0.8463070731544865,
+          "y": 0.44068484404391856,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 34.809303,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.4489584031967774,
+          "y": -0.48003714126280883,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": 1.871714980643817,
+          "y": 1.26186252021204,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 35.309303,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.46837851174761863,
+          "y": -1.1886861547186145,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": 1.871714980643817,
+          "y": 1.26186252021204,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 35.809303,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.7916208422439445,
+          "y": -1.6061155466939983,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": 1.0080646713323824,
+          "y": 0.5954209460575882,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 59.251354,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.3155765901928633,
+          "y": -3.566096290328969,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": -0.7114145310874248,
+          "y": -1.5266730441224188,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 59.751354,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.8053161865855822,
+          "y": -1.8911539669960025,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": -1.6804455700716718,
+          "y": -0.8077149732614929,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 60.251354,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.014749210834375,
+          "y": -1.3358113120930166,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": -1.5394474673261926,
+          "y": -0.5138222319660827,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 60.751354,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.164872001042422,
+          "y": -0.6433379650115965,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": -1.0387073912955351,
+          "y": -0.7172242791780029,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 61.251354,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.223656084687682,
+          "y": 2.0115283425944313,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": -0.9575557761957089,
+          "y": -0.5150665254070764,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 61.751354,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.9435687695180563,
+          "y": 1.5586450923399995,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": -0.6593959574469138,
+          "y": 0.20971219496819682,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 62.251354,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.6934709243016868,
+          "y": 1.2924842763046709,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": -0.08706221237879141,
+          "y": 1.4187867558184715,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 62.751354,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.208566336753525,
+          "y": 0.909922796281122,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": 0.4578672989618086,
+          "y": 1.4747242795881643,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 63.251354,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.7894583441761591,
+          "y": 0.1403679979698909,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": 0.8842280520883551,
+          "y": 1.406474507611981,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 63.751354,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.5392400742404173,
+          "y": -0.0856914120746934,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": 1.2396289965313785,
+          "y": 1.3340982278886624,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 64.251352,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.5226343648775196,
+          "y": -0.7796298720051847,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": 1.295477428344253,
+          "y": 1.8192103449785677,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 64.751352,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.499893741522378,
+          "y": -1.249216126215798,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": 1.261720448904501,
+          "y": 2.7452730333575195,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 65.251352,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.0005179768643929325,
+          "y": -1.8406673271894254,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": 0.9260658839955668,
+          "y": 3.0916556732504814,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 65.751352,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.6020697696371347,
+          "y": -2.260660538368132,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": 0.32066975765111155,
+          "y": 2.9528808426211954,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 66.251352,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "visible": false,
+          "x": 0.6020697696371347,
+          "y": -2.260660538368132,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "visible": false,
+          "x": 0.32066975765111155,
+          "y": 2.9528808426211954,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 66.751352,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "visible": false,
+          "x": 0.6020697696371347,
+          "y": -2.260660538368132,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "visible": false,
+          "x": 0.32066975765111155,
+          "y": 2.9528808426211954,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 67.251352,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -1.8212909427465305,
+          "y": -3.697976231475783,
+          "visible": true,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "x": -0.011361681362802856,
+          "y": -1.6891639450457243,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 67.751352,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -1.5387217118571725,
+          "y": -3.5974222416099764,
+          "visible": true,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "x": -0.7085260036018813,
+          "y": -1.334219249433138,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 68.251352,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -0.7483109364157485,
+          "y": -2.587025570016656,
+          "visible": true,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "x": -1.3888977552235673,
+          "y": -0.4139907499497026,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 68.751352,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -0.5643567949933208,
+          "y": -1.8302445447963032,
+          "visible": true,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "x": -1.8155463495943054,
+          "y": -0.11671107430344652,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 69.251352,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -2.1835732155988086,
+          "y": -1.0697365408210917,
+          "visible": true,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "x": -1.150433001561904,
+          "y": -0.9956589668645235,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 69.751352,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -2.173079276393736,
+          "y": 0.46579193836415256,
+          "visible": true,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "x": -0.9810054515612452,
+          "y": -1.0987165381064732,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 70.251352,
+      "action": true,
+      "replay": true,
+      "players": {
+        "1": {
+          "x": -1.9834781354563367,
+          "y": 1.1483931063803046,
+          "visible": true,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "x": -0.4867755291644796,
+          "y": -0.30369907006378655,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 70.751352,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "visible": false,
+          "x": -1.9834781354563367,
+          "y": 1.1483931063803046,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "visible": false,
+          "x": -0.4867755291644796,
+          "y": -0.30369907006378655,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 83.518485,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.5633616354921331,
+          "y": 1.206418277435055,
+          "color": "#3F51B5",
+          "visible": true,
+          "name": "Marche"
+        },
+        "2": {
+          "x": -1.0412288345627048,
+          "y": -2.435133013470662,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 151.180079,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.4431674201682694,
+          "y": -2.4426893890966186,
+          "visible": true,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "x": -1.349911981494231,
+          "y": -1.6915125307156722,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 151.680079,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.7916070646289052,
+          "y": -0.9275999447914283,
+          "visible": true,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "x": -1.1236503953821744,
+          "y": -1.6763094948700001,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 152.180079,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.7782382253469913,
+          "y": 0.7275699263166082,
+          "visible": true,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "x": -0.9072804647227053,
+          "y": -1.3484069896754376,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 152.680079,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.6568053079564482,
+          "y": 0.8832671327431232,
+          "visible": true,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "x": -0.2837646693031378,
+          "y": -1.2512981852695,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 153.180079,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.9667772713069459,
+          "y": -0.22718142325797128,
+          "visible": true,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "x": 0.7467103590307906,
+          "y": -2.0317029306502445,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 153.680079,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.47317547881057476,
+          "y": -1.0823717105069268,
+          "visible": true,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "x": 0.7110576744819126,
+          "y": -3.2129682868489833,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 154.180079,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.2302878002069044,
+          "y": -1.941320779823998,
+          "visible": true,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "x": 0.4821306183882296,
+          "y": -3.25297615116762,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 154.680079,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.499036959053995,
+          "y": -1.2090837915811046,
+          "visible": true,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "x": 0.48791950559296093,
+          "y": -3.115663627852925,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 155.180079,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.0027497458462675,
+          "y": 0.7780129859767326,
+          "visible": true,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "x": 0.5284066316374937,
+          "y": -1.6811609136323469,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 155.680079,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.056462053575573,
+          "y": 1.304749066915275,
+          "visible": true,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "x": 0.6741656364389124,
+          "y": -0.5321718717818333,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 156.180079,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.692792446935297,
+          "y": 0.8963510452104491,
+          "visible": true,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "x": 1.1254337892488504,
+          "y": 1.2281573106293657,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 156.680079,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.4046474004328346,
+          "y": 0.8586405792916707,
+          "visible": true,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "x": 1.9030704897602255,
+          "y": 3.1428930626810594,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 157.180079,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.9556964364094127,
+          "y": 1.4727361799681322,
+          "visible": true,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "x": 1.7151025215255937,
+          "y": 2.765166199288035,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 157.680079,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.5589209246574867,
+          "y": 2.7705359331808155,
+          "visible": true,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "x": 1.2994482271386056,
+          "y": 2.6612021096007683,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 158.180079,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.5551957830863077,
+          "y": 2.776768376926044,
+          "visible": true,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "x": 1.3423780303807062,
+          "y": 1.8479334051014487,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 158.680079,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.516834956394671,
+          "y": 2.877033506609438,
+          "visible": true,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "x": 0.9446614818235507,
+          "y": 1.683753966906798,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 159.180079,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.4087942923903847,
+          "y": 2.613629291572171,
+          "visible": true,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "x": 0.8538986522956985,
+          "y": 1.271434961036111,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 159.680079,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.3364860487818184,
+          "y": 2.599067795490497,
+          "visible": true,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "x": 0.49903790127098835,
+          "y": 0.3364851367640112,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 160.180079,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.3364860487818184,
+          "y": 2.599067795490497,
+          "visible": true,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "x": -0.00470804104762724,
+          "y": -0.432643212142497,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    },
+    {
+      "time": 160.680079,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.226107842886638,
+          "y": 2.403236811399107,
+          "visible": true,
+          "color": "#3F51B5",
+          "name": "Marche"
+        },
+        "2": {
+          "x": -0.2293427226661006,
+          "y": -0.9123506259835018,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Au"
+        }
+      }
+    }
+  ]
+}
