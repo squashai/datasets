@@ -1,0 +1,2320 @@
+{
+  "source": {
+    "name": "029AwqdH868.mp4",
+    "title": "2019 - Squash - Internazionali d'Italia PSA - Semifinal - Aqueel Rehman vs Ahmed Hosny",
+    "url": "https://gitlab.com/squashai/media/raw/master/029AwqdH868.mp4",
+    "type": "video/mp4"
+  },
+  "labels": [
+    {
+      "time": 0,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2,
+          "y": -2,
+          "visible": false,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 1.1754635042600194,
+          "y": -1.268293326565975,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 1.5,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.0892947651975766,
+          "y": -3.892225892218476,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 1.6795363825152745,
+          "y": -1.3249154028131898,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 2,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.0630345743527736,
+          "y": -3.3781118734647317,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 2.2799552983633244,
+          "y": -1.5472539676939614,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 2.5,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.0951374102761373,
+          "y": -2.6765346415981983,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 2.6045228724552443,
+          "y": -1.6295764404852564,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 3,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.3432443536760617,
+          "y": -2.5707958673208227,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 2.7,
+          "y": -1.7671097122044794,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 3.5,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.3457408516357046,
+          "y": -2.498177481010563,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 2.7,
+          "y": -1.50847758312023,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 4,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.537959310828023,
+          "y": -2.7858053944632246,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 2.3379751792824783,
+          "y": -1.2418775853865838,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 4.5,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.537959310828023,
+          "y": -2.7858053944632246,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 2.3379751792824783,
+          "y": -1.2418775853865838,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 5,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.537959310828023,
+          "y": -2.7858053944632246,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 2.3379751792824783,
+          "y": -1.2418775853865838,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 5.5,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.537959310828023,
+          "y": -2.7858053944632246,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 2.3379751792824783,
+          "y": -1.2418775853865838,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 6,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.537959310828023,
+          "y": -2.7858053944632246,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 2.3379751792824783,
+          "y": -1.2418775853865838,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 6.5,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.537959310828023,
+          "y": -2.7858053944632246,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 2.3379751792824783,
+          "y": -1.2418775853865838,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 7,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.537959310828023,
+          "y": -2.7858053944632246,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 2.3379751792824783,
+          "y": -1.2418775853865838,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 7.5,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.537959310828023,
+          "y": -2.7858053944632246,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 2.058622957622112,
+          "y": -1.1779701374006,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 8,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.537959310828023,
+          "y": -2.7858053944632246,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 2.058622957622112,
+          "y": -1.1779701374006,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 8.5,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.537959310828023,
+          "y": -2.7858053944632246,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 2.058622957622112,
+          "y": -1.1779701374006,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 9,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.537959310828023,
+          "y": -2.7858053944632246,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 2.058622957622112,
+          "y": -1.1779701374006,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 9.5,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.537959310828023,
+          "y": -2.7858053944632246,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 2.058622957622112,
+          "y": -1.1779701374006,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 10,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.537959310828023,
+          "y": -2.7858053944632246,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 2.058622957622112,
+          "y": -1.1779701374006,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 10.5,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.537959310828023,
+          "y": -2.7858053944632246,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 2.058622957622112,
+          "y": -1.1779701374006,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 11,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.537959310828023,
+          "y": -2.7858053944632246,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 2.058622957622112,
+          "y": -1.1779701374006,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 11.5,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.537959310828023,
+          "y": -2.7858053944632246,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 2.058622957622112,
+          "y": -1.1779701374006,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 12,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.537959310828023,
+          "y": -2.7858053944632246,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 2.058622957622112,
+          "y": -1.1779701374006,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 12.5,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.537959310828023,
+          "y": -2.7858053944632246,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 2.058622957622112,
+          "y": -1.1779701374006,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 13,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.537959310828023,
+          "y": -2.7858053944632246,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 2.058622957622112,
+          "y": -1.1779701374006,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 13.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.537959310828023,
+          "y": -2.7858053944632246,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 1.5694344285092572,
+          "y": -1.2054980988761255,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 14,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.6607270741844828,
+          "y": -3.2749762887894476,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 0.675049650758704,
+          "y": -1.4548950795346218,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 14.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.773841778471454,
+          "y": -3.5279743515058444,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -0.26369597172771486,
+          "y": -1.3726942015653567,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 15,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.7337247192281435,
+          "y": -3.755621058490352,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -0.5324966601861346,
+          "y": -1.5087096147883121,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 15.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.8070921028285905,
+          "y": -3.957425327655784,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -0.30400949470427646,
+          "y": -1.5483957234602288,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 16,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.3759343704981748,
+          "y": -3.9018972019007685,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -0.6049594479539241,
+          "y": -1.5814702764292594,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 16.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.42267625429594363,
+          "y": -3.383253516917695,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -1.2517084439000823,
+          "y": -2.696463794870234,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 17,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.6552791357053468,
+          "y": -1.7883010487621867,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -1.7119132956288026,
+          "y": -3.726193570279512,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 17.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.6614879133723803,
+          "y": -1.5424428566330683,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -2.073069981800561,
+          "y": -3.7790550081217202,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 18,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.7914510403009815,
+          "y": -1.7974329146562993,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -1.9863673890187985,
+          "y": -3.819797113575167,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 18.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.1738379325974393,
+          "y": -2.535367132708567,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -0.85238524071005,
+          "y": -3.6816436082536708,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 19,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.0970327439979934,
+          "y": -3.8187699594707385,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -0.70169665216068,
+          "y": -2.2899013459456357,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 19.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.240073320118631,
+          "y": -4.015212840719911,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -0.4314189401117486,
+          "y": -1.7152402738615056,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 33,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.43001031414624974,
+          "y": -2.7001433456597477,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -1.4111010992950912,
+          "y": -1.416464523652821,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 33.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.5256392950260205,
+          "y": -1.2014323447716824,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -1.5878040020233168,
+          "y": -1.4052095874377093,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 34,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.763453156113463,
+          "y": 0.12799147764775362,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -1.021328803580633,
+          "y": -1.2460598814146047,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 34.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.6707572444452508,
+          "y": -0.41952408777756356,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -0.1463974439918243,
+          "y": -1.4202035488864078,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 35,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.04342943461672,
+          "y": -1.1770143859621252,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 1.0636957458717515,
+          "y": -2.866385441192582,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 35.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.315294117646002,
+          "y": -2.046066933370624,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 1.0825116959029923,
+          "y": -3.056526407916453,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 36,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.8827142552123765,
+          "y": -3.062515919019563,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 1.0825116959029923,
+          "y": -3.056526407916453,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 36.5,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.6967818513945345,
+          "y": -3.7288720430215636,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 0.019303102354948816,
+          "y": -1.7425774858086907,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 198.073947,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.3258252356230473,
+          "y": -1.6452829614601245,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 0.7570290904574037,
+          "y": -0.43624923234177315,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 198.573947,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.88484521510172,
+          "y": -2.1441814410164812,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 0.7167800274556451,
+          "y": 0.2581726623084194,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 199.073947,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.6093480702366657,
+          "y": -2.8547892775302426,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 0.6107525090717878,
+          "y": 0.796289709159051,
+          "color": "#2196F3",
+          "name": "Hosny",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 199.573947,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.028415056397244988,
+          "y": -2.897346357300066,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 0.6107525090717878,
+          "y": 0.796289709159051,
+          "visible": false,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 200.073947,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.6548359758468348,
+          "y": -3.051567911824819,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -0.7402690448398944,
+          "y": 1.3575505721818282,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 200.573947,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.0415838637493104,
+          "y": -3.0641524194506213,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -1.2895525195309576,
+          "y": 1.5214441062306672,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 201.073947,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.3560729310309794,
+          "y": -3.0468740284134066,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -1.6319314985836757,
+          "y": 1.0365086058364654,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 201.573947,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.6292879374724614,
+          "y": -2.950219851226667,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -2.0522813042962245,
+          "y": 0.2296189012563163,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 202.073947,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.6292879374724614,
+          "y": -2.950219851226667,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -2.145027444063262,
+          "y": -0.3782872556026208,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 202.573947,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.6292879374724614,
+          "y": -2.950219851226667,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -2.225482424786525,
+          "y": -1.1482649794252935,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 211.073947,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.6292879374724614,
+          "y": -2.950219851226667,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -2.04072124718365,
+          "y": -1.1623543923699802,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 211.573947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.7154452918249579,
+          "y": -2.9614453315734863,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -1.2981563237072014,
+          "y": -1.25719935052761,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 212.073947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.1085480278146242,
+          "y": -2.958503859218299,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -0.7369249715313333,
+          "y": -1.2281375242836676,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 212.573947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.6646838944606357,
+          "y": -3.2568850894858175,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 0.10528407667986156,
+          "y": -1.4706169292999665,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 213.073947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.6104031574746407,
+          "y": -3.4449058007607154,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 0.28442028288557086,
+          "y": -1.4307235403326612,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 215.573947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.6750522023591035,
+          "y": -3.6921301165415095,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -0.3018434425652119,
+          "y": -1.4370245334197915,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 216.073947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.6750522023591035,
+          "y": -3.6921301165415095,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 0.39774412056974595,
+          "y": -1.2550930633150046,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 216.573947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.5938713415941409,
+          "y": -1.9482009404400353,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 1.4260092753687337,
+          "y": -0.2134034798323393,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 217.073947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.19525199389108658,
+          "y": -1.8013515948272443,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 1.81601723838705,
+          "y": 0.3102146707339616,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 217.573947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.32782006367388977,
+          "y": -1.8939470245619057,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 1.3634398305741497,
+          "y": 0.14360793190288454,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 218.073947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.09057789177990251,
+          "y": -1.9301955379148044,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 0.4004231539020921,
+          "y": -0.4723654273267961,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 223.073947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.6833977395683529,
+          "y": -1.6427145037462858,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -0.45129446227162595,
+          "y": -1.054218527287349,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 224.073947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.5988993223421496,
+          "y": -1.649289643487411,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 1.2385970159184378,
+          "y": -0.3952114506300111,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 224.573947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.28377382672925183,
+          "y": -1.488408172788024,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 1.434100720665127,
+          "y": 0.020059341946584652,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 225.073947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.56502881510739,
+          "y": -2.886196787598578,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 1.0156163582379374,
+          "y": -0.3962471249689532,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 225.573947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.186188035426866,
+          "y": -3.958333427102972,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 0.6083396856483048,
+          "y": -1.1948042711753966,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 226.073947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.186188035426866,
+          "y": -3.958333427102972,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 0.5125098894575396,
+          "y": -1.2993988260369718,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 226.573947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.1273169085046564,
+          "y": -3.552135602304197,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 1.0497589263746383,
+          "y": -1.5022507739091386,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 227.073947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.6729200889457495,
+          "y": -3.021309611690033,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 1.6801682657560815,
+          "y": -2.2279149290380977,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 227.573947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.11364303484493278,
+          "y": -1.8024470508314352,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 2.3066882708214416,
+          "y": -3.2290231649862813,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 228.073947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.07463808293573884,
+          "y": -1.561226723523823,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 2.3066882708214416,
+          "y": -3.2290231649862813,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 228.573947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.5905897025184916,
+          "y": -2.358010225306664,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 1.9475309438847062,
+          "y": -3.4889867849944283,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 229.073947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.483387908998222,
+          "y": -2.7762959664890956,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 0.7232796342064723,
+          "y": -3.3869525329988024,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 229.573947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.9547674284623904,
+          "y": -3.6386376738751935,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -0.03586470562984724,
+          "y": -2.241430290229734,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 230.073947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.9547674284623904,
+          "y": -3.6386376738751935,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -0.03586470562984724,
+          "y": -2.241430290229734,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 230.573947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.6371399846419623,
+          "y": -3.5331679338003035,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 0.02515887286145406,
+          "y": -2.112664529938668,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 231.073947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.01752134898229319,
+          "y": -2.242472765831407,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -1.08871945250806,
+          "y": -0.597967010424189,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 231.573947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.1729220421724707,
+          "y": -1.5154291023631798,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -1.663601133209075,
+          "y": 0.4568373549690932,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 232.073947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.5478518729485286,
+          "y": -2.3528579819187243,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -1.2115271003556685,
+          "y": 0.20166201277282383,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 232.573947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.8743036258493627,
+          "y": -3.4083702532768045,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -0.6156967448492136,
+          "y": -0.49744868488981664,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 233.073947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.5039556608840586,
+          "y": -3.4165990693245054,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -0.03434162013409192,
+          "y": -1.3525986447995693,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 233.573947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.0613731358071744,
+          "y": -2.998376630453902,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 0.7113061877921515,
+          "y": -1.994154014256721,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 234.073947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.3212592953652511,
+          "y": -2.6909859045709967,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 0.9714776414448828,
+          "y": -2.5299348443901186,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 234.573947,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.37463942408447276,
+          "y": -1.6218977646219108,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 0.945710254416211,
+          "y": -3.155873187988428,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 235.073947,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.03542801804732084,
+          "y": -1.2633528230105575,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 0.945710254416211,
+          "y": -3.155873187988428,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 293.146538,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.0741244475964526,
+          "y": -1.7914992582431888,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 0.0770758269674234,
+          "y": -1.0205862766800966,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 293.646538,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.4871686337232965,
+          "y": -1.6180756235800657,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -1.3369266990012365,
+          "y": 0.5080711786352256,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 294.146538,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.36175648895443013,
+          "y": -1.3239638051060258,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -2.445974572724423,
+          "y": 2.0833240615740785,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 294.646538,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.41352296362452523,
+          "y": -1.3520093213425077,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -2.445974572724423,
+          "y": 2.0833240615740785,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 295.146538,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.9473492745712564,
+          "y": -2.4843096140367393,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -1.6062737083296341,
+          "y": 0.6890645377679203,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 295.646538,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.08839033321567,
+          "y": -2.5583362792128623,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -0.8270552182904842,
+          "y": -0.6017468544651733,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 296.146538,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.6489698610474331,
+          "y": -2.9200311959186247,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 0.503534239713765,
+          "y": -1.4685954564828025,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 299.646538,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.26737984292683026,
+          "y": -2.9154028053872545,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 1.1465484208784984,
+          "y": 0.5259087718081286,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 300.146538,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.0668593962048133,
+          "y": -1.4469561540947082,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 1.7220482346748665,
+          "y": 1.3490136698233566,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 300.646538,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.4809313096042925,
+          "y": -2.4702684908888735,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 1.2488177580298343,
+          "y": 0.3510809427438744,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 310.146538,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.9418713891547652,
+          "y": 1.6255705286150055,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -0.3894744310351759,
+          "y": -0.4668733050878558,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 316.646538,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.8626512171174496,
+          "y": -3.956476555840521,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": 0.36309673615357363,
+          "y": 1.428007630756197,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 317.146538,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.570174648318079,
+          "y": -3.7705770218585597,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -0.004498665434163773,
+          "y": 2.4726677656951788,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 317.646538,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.0466494797682886,
+          "y": -3.809354809838566,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -0.07325131232504054,
+          "y": 2.5552400818052674,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 318.146538,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.500355324583019,
+          "y": -3.735472749839443,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -0.8567071837507726,
+          "y": 2.5915479827707624,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 318.646538,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "visible": false,
+          "x": 2.500355324583019,
+          "y": -3.735472749839443,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -1.4386896741240365,
+          "y": 2.6143653433154315,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 319.146538,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.500355324583019,
+          "y": -3.735472749839443,
+          "visible": false,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -1.972621971701385,
+          "y": 2.637809128263414,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 319.646538,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.4809722888139336,
+          "y": -3.7064989680352465,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -2.416043525566372,
+          "y": 2.076211927043991,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    },
+    {
+      "time": 320.146538,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.2617920446519233,
+          "y": -3.7453510332718873,
+          "visible": true,
+          "color": "#000000",
+          "name": "Rehman"
+        },
+        "2": {
+          "x": -2.6245477660925265,
+          "y": 1.6141631466403905,
+          "visible": true,
+          "color": "#2196F3",
+          "name": "Hosny"
+        }
+      }
+    }
+  ]
+}
