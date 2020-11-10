@@ -1,5 +1,6 @@
 from os import path, makedirs, listdir
 from glob import glob
+from urllib import request
 from urllib.request import urlretrieve
 from math import floor, log10
 import json
@@ -8,6 +9,10 @@ import cv2
 import re
 
 ssl._create_default_https_context = ssl._create_unverified_context
+
+opener = request.build_opener()
+opener.addheaders = [('User-agent', 'Mozilla/5.0')]
+request.install_opener(opener)
 
 homedir = path.dirname(path.dirname(path.realpath(__file__)))
 videodir = path.join(homedir, 'media', 'videos')
