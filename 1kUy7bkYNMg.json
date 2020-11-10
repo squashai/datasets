@@ -1,0 +1,1900 @@
+{
+  "source": {
+    "name": "1kUy7bkYNMg.mp4",
+    "title": "2020 - Squash - Rieccoci!!! Lo Squash Riparte - Day 1",
+    "url": "https://gitlab.com/squashai/media/raw/master/1kUy7bkYNMg.mp4",
+    "type": "video/mp4"
+  },
+  "labels": [
+    {
+      "time": 0,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "visible": false,
+          "name": null,
+          "color": "#FFFFFF",
+          "x": -2,
+          "y": -2
+        },
+        "2": {
+          "visible": false,
+          "name": null,
+          "color": "#000000",
+          "x": 2,
+          "y": -2
+        }
+      }
+    },
+    {
+      "time": 0.5,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "visible": false,
+          "name": null,
+          "color": "#FFFFFF",
+          "x": -2,
+          "y": -2
+        },
+        "2": {
+          "visible": false,
+          "name": null,
+          "color": "#000000",
+          "x": 2,
+          "y": -2
+        }
+      }
+    },
+    {
+      "time": 1,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "visible": false,
+          "name": null,
+          "color": "#FFFFFF",
+          "x": -2,
+          "y": -2
+        },
+        "2": {
+          "visible": false,
+          "name": null,
+          "color": "#000000",
+          "x": 2,
+          "y": -2
+        }
+      }
+    },
+    {
+      "time": 1.5,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "visible": false,
+          "name": null,
+          "color": "#FFFFFF",
+          "x": -2,
+          "y": -2
+        },
+        "2": {
+          "visible": false,
+          "name": null,
+          "color": "#000000",
+          "x": 2,
+          "y": -2
+        }
+      }
+    },
+    {
+      "time": 2,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "visible": false,
+          "name": null,
+          "color": "#FFFFFF",
+          "x": -2,
+          "y": -2
+        },
+        "2": {
+          "visible": false,
+          "name": null,
+          "color": "#000000",
+          "x": 2,
+          "y": -2
+        }
+      }
+    },
+    {
+      "time": 140.347812,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "color": "#000000",
+          "x": -2.2982317759187483,
+          "y": 3.497485110897497,
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "color": "#F44336",
+          "x": 0.858366931087235,
+          "y": 0.45619059972019527,
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 140.847812,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.2982317759187483,
+          "y": 3.497485110897497,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 0.7606197453741264,
+          "y": 0.059606030829865195,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 141.347812,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.256816800513922,
+          "y": 3.92741583694356,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 0.7311890754861292,
+          "y": -0.5823808681292352,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 141.847812,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.256816800513922,
+          "y": 3.92741583694356,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 0.8879055840557071,
+          "y": -1.0926039377077366,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 142.347812,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.287858387492683,
+          "y": 4.156508617262184,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 0.9854466758080321,
+          "y": -1.6142094592661618,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 142.847812,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.287858387492683,
+          "y": 4.156508617262184,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 1.11457541298209,
+          "y": -2.567112045786375,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 143.347812,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.2546578480357455,
+          "y": 3.942671703841916,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 1.4658061683513366,
+          "y": -3.03474378235694,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 143.847812,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.1762076239791366,
+          "y": 3.7420229105496254,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 2.0395607023523485,
+          "y": -3.3959400641388577,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 144.347812,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.1442592301760595,
+          "y": 3.6557591182007783,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 2.22698746613707,
+          "y": -3.4871020802830914,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 144.847812,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.1275528069508045,
+          "y": 3.52938026016985,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 2.5428870863265143,
+          "y": -3.868283041222109,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 145.347812,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.1015725019723646,
+          "y": 3.265672142411174,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 2.6785348617433926,
+          "y": -4.128726838359983,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 145.847812,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.0159174864946032,
+          "y": 2.6127601040519237,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 2.624419010086072,
+          "y": -4.321741473167108,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 146.347812,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.953019831107767,
+          "y": 2.161019226647248,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 2.6571206396465974,
+          "y": -4.3669813693839945,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 146.847812,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.002106652753155,
+          "y": 1.4007973058575964,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 2.4544374992930846,
+          "y": -4.372937023198249,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 147.347812,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.047399649437182,
+          "y": 0.6550595095712151,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 2.4544374992930846,
+          "y": -4.372937023198249,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 147.847812,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.0908425715625167,
+          "y": 0.3257736712441167,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 2.389456900137681,
+          "y": -4.0487878113298645,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 148.347812,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.175483118996279,
+          "y": -0.25165861140750645,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 2.3239797369633144,
+          "y": -3.8566490912640674,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 148.847812,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.159217986132266,
+          "y": -0.8817753502532069,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 2.2982021525659793,
+          "y": -3.1116318224804034,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 149.347812,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.2007390836344687,
+          "y": -1.301664514883634,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 2.201057953029323,
+          "y": -2.7728298295850475,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 149.847812,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.1520009134323854,
+          "y": -1.8949142115855273,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 2.201057953029323,
+          "y": -2.7728298295850475,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 248.3732,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.1974280036332856,
+          "y": 0.8293694025241137,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 1.5507263552889137,
+          "y": -3.8896004889723437,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 248.8732,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.2807853632786985,
+          "y": 1.3405851169524303,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 1.5507263552889137,
+          "y": -3.8896004889723437,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 249.3732,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.0234918462901175,
+          "y": 0.9982943511691896,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 1.6705673516781359,
+          "y": -3.8851880833930514,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 249.8732,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.857102439805924,
+          "y": -0.007289732411031653,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 2.0273716998784908,
+          "y": -3.8696412474636217,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 539.841562,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.0717999195163899,
+          "y": -3.460016349819521,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -2.1298396061859877,
+          "y": -1.1433436492080176,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 540.341562,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.0717999195163899,
+          "y": -3.460016349819521,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -2.1347854732663913,
+          "y": -0.7598684023208209,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 540.841562,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.4240533862743414,
+          "y": -2.931345583204343,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -2.0759228338056577,
+          "y": -0.7598683834075924,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 541.341562,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.4718878993299562,
+          "y": -2.796894400524814,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -1.9822533682685066,
+          "y": -1.0460065009043604,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 541.841562,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.2525380776385613,
+          "y": -2.813872248774324,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -1.6705660024336153,
+          "y": -1.5211195534842534,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 542.341562,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.6199329491554204,
+          "y": -2.3376887722055804,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -1.1278764096178562,
+          "y": -2.232522212990049,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 542.841562,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.1330377731513364,
+          "y": -1.2962765171370567,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 0.618138644290904,
+          "y": -3.7068778365800856,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 543.341562,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.06615182934686455,
+          "y": -0.6603498778070647,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 2.4069558273721166,
+          "y": -3.9240009784698486,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 543.841562,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.34723503871002054,
+          "y": 0.3231839897377604,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 2.4069558273721166,
+          "y": -3.9240009784698486,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 544.341562,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.4513044091945809,
+          "y": 0.2637291194873944,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 2.567470513397704,
+          "y": -4.050016210150575,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 550.341562,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.7310496771000095,
+          "y": -1.1717358287414557,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -1.2353246652055665,
+          "y": -3.3258274644930474,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 550.841562,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.7310496771000095,
+          "y": -1.1717358287414557,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -1.2353246652055665,
+          "y": -3.3258274644930474,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 551.341562,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.7463284032330029,
+          "y": -0.6069358459991046,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -1.343449959803656,
+          "y": -3.2772261473510396,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 551.841562,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.5019522331450907,
+          "y": -0.606935858726502,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -1.4209777068949097,
+          "y": -3.277226209640503,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 552.341562,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.8262043230850333,
+          "y": -1.124234239360311,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -1.4209777068949097,
+          "y": -3.277226209640503,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 552.841562,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.447215478475972,
+          "y": -1.4494360183195332,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -1.7471456935611764,
+          "y": -3.0315618418000385,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 553.341562,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.25420779574016084,
+          "y": -0.7754346352743594,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -1.2846509895018838,
+          "y": -2.5926591035609237,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 553.841562,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.035936999500578076,
+          "y": 1.0616891627623386,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -0.9262920419741896,
+          "y": -1.409267027494573,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 554.341562,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.035936999500578076,
+          "y": 1.0616891627623386,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 0.09671699750731186,
+          "y": -0.3682047639981693,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 554.841562,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.03570360801906261,
+          "y": 0.9867279531621029,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 1.226966457698412,
+          "y": 1.277684926986694,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 555.341562,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.1877824841602731,
+          "y": -0.5739639513155513,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 1.5660787001603764,
+          "y": 2.32732338461582,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 555.841562,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.14809971401993635,
+          "y": -1.399895906448364,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 1.7755099611945926,
+          "y": 1.685197107745354,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 556.341562,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.5824685635775196,
+          "y": -1.7087078714267596,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 1.1733534193064874,
+          "y": 1.046710294797505,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 556.841562,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.6484919359769614,
+          "y": -1.7442841658549575,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -0.015996479387384403,
+          "y": -0.47051534101196885,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 557.341562,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.791607671861277,
+          "y": -1.3807439608221082,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -1.1877195095185804,
+          "y": 0.05651310554186573,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 557.841562,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.7932111778056776,
+          "y": -1.0482194371982068,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -2.5271909010088858,
+          "y": -0.4479973155937387,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 558.341562,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.8841172210686328,
+          "y": 0.1313814606493871,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -2.7,
+          "y": -0.7031848926636897,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 558.841562,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.258129236396402,
+          "y": 1.995752149758868,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -2.6630164928774214,
+          "y": -0.9865893134729784,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 559.341562,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.9446393044534931,
+          "y": 2.2810176087499907,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -2.445196287459869,
+          "y": -1.2332101983954171,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 559.841562,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.6168330981124468,
+          "y": 1.8988730593634149,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -2.1102792668762413,
+          "y": -1.5113373081288812,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 560.341562,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.6765211978536625,
+          "y": 1.492290134097367,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -1.2158354793402726,
+          "y": -2.0953127621134304,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 560.841562,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.7721228526356173,
+          "y": 1.2441247637820692,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -0.673458617105518,
+          "y": -2.2591483146293068,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 561.341562,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.0806450140149995,
+          "y": 0.6742764287793938,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -0.10830864245585359,
+          "y": -2.592169061496975,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 561.841562,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.2510931408528585,
+          "y": 0.33869227251426237,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 0.6553009305540572,
+          "y": -2.96861297141653,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 562.341562,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.8317782511010536,
+          "y": -0.3868576969540575,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 0.9657248431976917,
+          "y": -3.175308399009753,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 571.841562,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.9848508800337078,
+          "y": 1.4724470965908902,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 0.9944532776882917,
+          "y": -3.2543701680336037,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 572.341562,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.3106031785161085,
+          "y": 0.5184119841782401,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 1.4367328952701297,
+          "y": -3.438973574822207,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 572.841562,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.3689562701159121,
+          "y": 0.29680479957036054,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 1.6971980625787124,
+          "y": -3.543956202580596,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 573.341562,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.6546650964203681,
+          "y": 0.3144403754208753,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 1.6537412243811336,
+          "y": -3.4983595485025463,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 576.841562,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.6848247504186858,
+          "y": -1.932805918523409,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -2.0309440891727895,
+          "y": -3.986590154648944,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 577.341562,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.5948736297856123,
+          "y": -2.2826823754482386,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -1.771154166630732,
+          "y": -3.704233733743448,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 577.841562,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.005965776463257813,
+          "y": -3.1095580495932746,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -1.1267401405560156,
+          "y": -3.7659594350029755,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 578.341562,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.6940073676669534,
+          "y": -3.2023253278629262,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -0.7412320134614726,
+          "y": -3.858946370307559,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 578.841562,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.2189769962597174,
+          "y": -2.8685920559401303,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -0.6647269481536682,
+          "y": -3.841909812028,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 579.341562,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.4221980964152476,
+          "y": -2.6251170609706413,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -0.6647269481536682,
+          "y": -3.841909812028,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 579.841562,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.0433921835809183,
+          "y": -1.6962903805740193,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -0.7797783410280729,
+          "y": -3.8069515854300406,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 623.94558,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.3818801183839773,
+          "y": -2.7576756200127526,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 2.274703708072171,
+          "y": -0.9903575167288758,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 624.44558,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.4290504689921635,
+          "y": -2.7593271632279652,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 2.0831566852309944,
+          "y": -1.0247311148633849,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 624.94558,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.024574312631123,
+          "y": -2.8652675256711952,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 1.2047316113664635,
+          "y": -0.9314734565478,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 625.44558,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.30145975698856203,
+          "y": -3.682972816362224,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 0.6366941440144807,
+          "y": -1.3995726671479871,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 625.94558,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.5839197381168395,
+          "y": -3.631420705471275,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -0.21861416235496278,
+          "y": -1.9555176018538003,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 626.44558,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.7461552499657791,
+          "y": -2.827418560295899,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -1.0039794664786572,
+          "y": -2.5525181728436372,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 626.94558,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.6070693255632317,
+          "y": -1.5754660020271054,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -1.5287704489774383,
+          "y": -3.892071091158172,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 627.44558,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.28744051200760523,
+          "y": -0.2664990354454918,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -1.8506646006705465,
+          "y": -3.7508768720453016,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 653.657699,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.3017180569239455,
+          "y": -0.6372629286734262,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -1.007234459700459,
+          "y": -2.8132418475062355,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 654.157699,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.08933207301261303,
+          "y": -1.0760829024521699,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -0.6519180976387402,
+          "y": -2.9704038556380437,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 654.657699,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.3107848391801057,
+          "y": -1.4233044821708722,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -0.422593667333326,
+          "y": -2.845453223008569,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 655.157699,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.0347266464166809,
+          "y": -2.694699191539326,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": -0.12375475935448811,
+          "y": -2.7360678388411337,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 655.657699,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.2871267179785564,
+          "y": -3.5891764536495887,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 0.1291900391709636,
+          "y": -1.8300573243747444,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 656.157699,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.4091423089036164,
+          "y": -3.6433197489290046,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 0.5293148966745037,
+          "y": -0.8131835961922954,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    },
+    {
+      "time": 656.657699,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.0717538577484926,
+          "y": -3.544799574304151,
+          "color": "#000000",
+          "visible": true,
+          "name": "Rinaldi"
+        },
+        "2": {
+          "x": 0.29425138592806466,
+          "y": 0.20382156466135104,
+          "color": "#F44336",
+          "visible": true,
+          "name": "Sekera"
+        }
+      }
+    }
+  ]
+}
