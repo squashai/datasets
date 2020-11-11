@@ -1,0 +1,1837 @@
+{
+  "source": {
+    "name": "eXYJo4RCfbI.mp4",
+    "title": "Squash: Women's Quarter Final Roundup Pt.1 - US Open 2018",
+    "url": "https://gitlab.com/squashai/media/raw/master/eXYJo4RCfbI.mp4",
+    "type": "video/mp4"
+  },
+  "labels": [
+    {
+      "time": 29.056353,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.3313660447740997,
+          "y": -1.8690537991870566,
+          "color": "#F44336",
+          "name": "Sherbini",
+          "visible": true
+        },
+        "2": {
+          "x": -1.2924384316503201,
+          "y": -2.7852957514249437,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 29.556353,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.35468217165233545,
+          "y": -1.6148880018826166,
+          "color": "#F44336",
+          "name": "Sherbini",
+          "visible": true
+        },
+        "2": {
+          "x": -1.7604583380948398,
+          "y": -3.459395997281475,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 30.056353,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.3524378739734871,
+          "y": -1.612730943527926,
+          "color": "#F44336",
+          "name": "Sherbini",
+          "visible": true
+        },
+        "2": {
+          "x": -1.7950936682600591,
+          "y": -3.4593958854675293,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 30.556353,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.853274498947805,
+          "y": -2.1540196792063124,
+          "color": "#F44336",
+          "name": "Sherbini",
+          "visible": true
+        },
+        "2": {
+          "x": -0.7667743133773515,
+          "y": -3.3889466893617777,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 31.056353,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.853274498947805,
+          "y": -2.1540196792063124,
+          "color": "#F44336",
+          "name": "Sherbini",
+          "visible": true
+        },
+        "2": {
+          "x": 0.09548020414121648,
+          "y": -2.689320013906822,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 31.556353,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.5650162179810867,
+          "y": -2.1569838833068484,
+          "color": "#F44336",
+          "name": "Sherbini",
+          "visible": true
+        },
+        "2": {
+          "x": -0.06452882424504919,
+          "y": -1.5677966003404744,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 32.056353,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.3026520643561658,
+          "y": -1.8899859389971365,
+          "color": "#F44336",
+          "name": "Sherbini",
+          "visible": true
+        },
+        "2": {
+          "x": -0.9928520100627206,
+          "y": -1.698078829509719,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 32.556353,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.33003969069303907,
+          "y": -1.7193970682897592,
+          "color": "#F44336",
+          "name": "Sherbini",
+          "visible": true
+        },
+        "2": {
+          "x": -1.4235895286243667,
+          "y": -3.1104240860482544,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 33.056353,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.3311120613610242,
+          "y": -1.7193970680236814,
+          "color": "#F44336",
+          "name": "Sherbini",
+          "visible": true
+        },
+        "2": {
+          "x": -1.73194183676785,
+          "y": -3.7357808966787633,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 33.556353,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.7212241175006775,
+          "y": -2.035898064912004,
+          "color": "#F44336",
+          "name": "Sherbini",
+          "visible": true
+        },
+        "2": {
+          "x": -0.8877044858439035,
+          "y": -3.6534902250904495,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 34.056353,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.2921875108663214,
+          "y": -2.7003237498961705,
+          "color": "#F44336",
+          "name": "Sherbini",
+          "visible": true
+        },
+        "2": {
+          "x": -0.4267964862503915,
+          "y": -3.085019831203308,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 34.556353,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.4543067709428876,
+          "y": -3.52495195593046,
+          "color": "#F44336",
+          "name": "Sherbini",
+          "visible": true
+        },
+        "2": {
+          "x": -0.321740689891344,
+          "y": -2.0090983935369575,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 35.056353,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.50563780896774,
+          "y": -3.5274807145989597,
+          "color": "#F44336",
+          "name": "Sherbini",
+          "visible": true
+        },
+        "2": {
+          "x": -0.3260865524201552,
+          "y": -1.7414855794654893,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 35.556353,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.2604469611974092,
+          "y": -3.5838102233825047,
+          "color": "#F44336",
+          "name": "Sherbini",
+          "visible": true
+        },
+        "2": {
+          "x": -0.7675288329866832,
+          "y": -1.8698033366825852,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 36.056353,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.9466667566328189,
+          "y": -3.4094153013361836,
+          "color": "#F44336",
+          "name": "Sherbini",
+          "visible": true
+        },
+        "2": {
+          "x": -0.6186361945490114,
+          "y": -1.8137507836242484,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 36.556353,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.1311427924805444,
+          "y": -2.8754019019489347,
+          "color": "#F44336",
+          "name": "Sherbini",
+          "visible": true
+        },
+        "2": {
+          "x": -0.4966508955081299,
+          "y": -1.7802124198300942,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 37.056353,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.6038143847080522,
+          "y": -1.8366317984467875,
+          "color": "#F44336",
+          "name": "Sherbini",
+          "visible": true
+        },
+        "2": {
+          "x": -0.49824619127699704,
+          "y": -1.8191116477529798,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 37.556353,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.6038143847080522,
+          "y": -1.8366317984467875,
+          "visible": false,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -0.026968761556980587,
+          "y": -2.001570586074194,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 38.056353,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.3100840618046186,
+          "y": -0.7883049598976312,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 1.139760675261191,
+          "y": -2.2990781377119416,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 54.871338,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.0113454884369366,
+          "y": -0.23797604441642797,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 2.1594760666590385,
+          "y": 1.2316080827834384,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 55.371338,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.4573988067739323,
+          "y": -0.2379760444164276,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 1.3643264782497553,
+          "y": 1.5886983284068787,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 55.871338,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.7294219912603528,
+          "y": -0.33026998167269817,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 0.753314743683103,
+          "y": 1.6673572306389475,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 56.371338,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.9922959138528427,
+          "y": -0.5348024885797834,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -0.06923405524310348,
+          "y": 1.8750670399593918,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 56.871338,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.7238854670184294,
+          "y": -1.2634685820968674,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -0.5139671156515639,
+          "y": 1.6178804042608568,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 61.871338,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.900533902063448,
+          "y": -4.188828311824603,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 0.45804275683031026,
+          "y": -1.322578426049336,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 62.371338,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.7956240602174984,
+          "y": -3.74859815977638,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 0.13992966458541847,
+          "y": -1.570660397166584,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 62.871338,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.026273324137095,
+          "y": -2.330384283387665,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -0.6658332162515312,
+          "y": -2.5066945173776647,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 63.371338,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.1790061516025441,
+          "y": -1.5976030563351926,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -1.4441172370081141,
+          "y": -3.424295944905788,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 63.871338,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.7227198335800743,
+          "y": -1.9755530023355892,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -1.0082175328330347,
+          "y": -3.3399357838338477,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 64.371337,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.7011044784411615,
+          "y": -2.6967954094713003,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -0.4994239473280117,
+          "y": -2.4894085882821715,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 64.871337,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.3234137015052467,
+          "y": -2.902321127512697,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -0.2994862736972802,
+          "y": -1.5363285621257239,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 65.371337,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.8657164203035868,
+          "y": -2.8917481950258717,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 0.23103505966219312,
+          "y": -0.6695514564005596,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 66.371337,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.2494557365349137,
+          "y": -1.1283099837264985,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 1.373087585467,
+          "y": -2.9060348332604398,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 66.871337,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.1727387486108567,
+          "y": -1.1283099651336665,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 1.373087585467,
+          "y": -2.9060348332604398,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 67.371337,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.097484835202472,
+          "y": -1.0688064564237325,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 1.373087585467,
+          "y": -2.9060348332604398,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 67.871337,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.5657358457122144,
+          "y": -1.1435492055296241,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 1.373087585467,
+          "y": -2.9060348332604398,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 68.371337,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.8468680931271271,
+          "y": -0.9586339149521752,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 2.1089125874944177,
+          "y": -2.9110629185496744,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 68.871337,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.5099485786278896,
+          "y": -1.1696318753485284,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 2.1089125874944177,
+          "y": -2.9110629185496744,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 69.371337,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.15510682628300282,
+          "y": -1.2926320137455791,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 1.854409309788725,
+          "y": -2.24182463109587,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 69.871337,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.5515077883897832,
+          "y": -1.3556942970904842,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 0.9251229357113641,
+          "y": -2.0244538192996635,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 70.371337,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.740701306058873,
+          "y": -1.531084377263544,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 0.29077244960970006,
+          "y": -1.81973256449377,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 70.871337,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.00512375436851,
+          "y": -1.2821009947217346,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 1.0647157533384486,
+          "y": -1.9841532867527572,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 71.371337,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.6639592873258517,
+          "y": -1.1566994123094252,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 1.8061799201988538,
+          "y": -2.2136903986496694,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 71.871337,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.31418204722961884,
+          "y": -1.2782129599268859,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 2.0707453661422504,
+          "y": -2.682004515520934,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 72.371337,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.3952577567266005,
+          "y": -1.378104513297861,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 2.0707453661422504,
+          "y": -2.682004515520934,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 76.871337,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.2569416278482457,
+          "y": -0.518875071391802,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -0.8116204283972448,
+          "y": -1.7198666691355984,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 77.371337,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.232327455771483,
+          "y": -0.12949507982140726,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -0.9009253841920242,
+          "y": -1.9945660718915328,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 77.871337,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.1991726935477174,
+          "y": 0.49269564893068535,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -0.6738134218038921,
+          "y": -2.357036430941136,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 78.371337,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.0153339318998422,
+          "y": 0.37334690099683276,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -0.40026163738248083,
+          "y": -2.891807186747255,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 78.871337,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -2.0934702873605575,
+          "y": 0.9629868728732962,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 0.036194369533146115,
+          "y": -3.081672614460578,
+          "color": "#FFFFFF",
+          "name": "Adel",
+          "visible": true
+        }
+      }
+    },
+    {
+      "time": 79.371337,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.9747904459865127,
+          "y": 1.4477646687427757,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 0.036194369533146115,
+          "y": -3.081672614460578,
+          "visible": false,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 79.871337,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.5549864201475165,
+          "y": 1.71276563212134,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 0.036194369533146115,
+          "y": -3.081672614460578,
+          "visible": false,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 80.371337,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.6708953434884625,
+          "y": 1.6790995402247861,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 0.036194369533146115,
+          "y": -3.081672614460578,
+          "visible": false,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 88.871337,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.5231032808809631,
+          "y": -1.9520290965297598,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -0.5846242955620837,
+          "y": -2.898401494961508,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 89.371337,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.4912896757775662,
+          "y": -1.7067733140702979,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -1.5622178744989899,
+          "y": -3.068329990841558,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 89.871337,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.7894671858897794,
+          "y": -1.8451305856702347,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -1.0332973374177512,
+          "y": -2.948272829172466,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 90.371337,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.1157490598212783,
+          "y": -2.577849456056425,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -0.5334572225687718,
+          "y": -1.9489177337262906,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 90.871337,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.5329652329752963,
+          "y": -3.169859959812362,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -0.547407277879317,
+          "y": -1.644586989952554,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 91.371337,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.5329652329752963,
+          "y": -3.169859959812362,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -0.9467290345092733,
+          "y": -1.3232120417021647,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 91.871337,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.9658368654820677,
+          "y": -2.4625352373774736,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -1.6302326805239211,
+          "y": -0.3575577807922583,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 92.371337,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.32620419699854764,
+          "y": -1.7126501627098314,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -1.918641238133824,
+          "y": 0.01207181593858735,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 96.871337,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.030217193939063546,
+          "y": 0.6608575052955338,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -2.51360064198755,
+          "y": 2.1131585272246816,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 97.371337,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.19720307165876605,
+          "y": 1.836200347611232,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -2.51360064198755,
+          "y": 2.1131585272246816,
+          "visible": false,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 97.871337,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.4097564559620685,
+          "y": 2.774239280612964,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -2.51360064198755,
+          "y": 2.1131585272246816,
+          "visible": false,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 98.371337,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.9198822512278665,
+          "y": 3.3299964728679106,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -2.51360064198755,
+          "y": 2.1131585272246816,
+          "visible": false,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 102.871337,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.6066654495296924,
+          "y": -3.6003147737772143,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -0.31190692447700263,
+          "y": -1.5725722622869842,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 103.371337,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.5450714619554096,
+          "y": -3.4504385299264135,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -0.8134566839781515,
+          "y": -1.2678334041377712,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 103.871337,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -1.2026452429883414,
+          "y": -2.866082775057292,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -1.4313170304183422,
+          "y": -0.21965558604273028,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 104.371337,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.6141195080577078,
+          "y": -2.346615988814394,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -1.8266798247832299,
+          "y": 0.6345971420719417,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 104.871337,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.47301628377345967,
+          "y": -2.2244688823023857,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -1.2379572598217752,
+          "y": -0.17652145673947964,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 105.371337,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.1338018997066155,
+          "y": -2.9034255041382457,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -0.6399781354037632,
+          "y": -0.6400914056211283,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 105.871337,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.7,
+          "y": -3.141686852251551,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -0.16651891360746296,
+          "y": -0.5269654979358485,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 106.371337,
+      "action": true,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.7,
+          "y": -3.141686852251551,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -0.2844769536576552,
+          "y": -0.10790904937560945,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 106.871337,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.465569614836642,
+          "y": -3.082969446927457,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -0.5988585943718112,
+          "y": 0.6812007936232911,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 107.371337,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 1.4761061887321276,
+          "y": -2.6164951283441997,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -0.7565510575660752,
+          "y": 0.9681755028398289,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 107.871337,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.8117266300545856,
+          "y": -1.265609838715274,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -1.0320428885032407,
+          "y": 1.5955670932793233,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 108.371337,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.5914108601157315,
+          "y": -0.8711917737641762,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -1.2152827466695575,
+          "y": 1.9864247276888016,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 108.871337,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 0.028373965464853452,
+          "y": -0.1383797473996422,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -1.4718633884764591,
+          "y": 2.2763111538930216,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 109.371337,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.1454325345010628,
+          "y": 0.09695059263976483,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -1.8056746540718216,
+          "y": 2.9166620853522565,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 110.371337,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.2073728653173856,
+          "y": -1.0249475117717677,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -1.2475726137729795,
+          "y": -2.793556153895527,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 110.871337,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": 2.0654378465545316,
+          "y": -1.027527758906246,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": -1.2475726137729795,
+          "y": -2.793556153895527,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 142.371336,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.6837545709995018,
+          "y": -0.027838280685228332,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 2.1849468795213713,
+          "y": -1.7879614858742454,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 142.871336,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.8051356120809494,
+          "y": -0.9866889829814275,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 2.35884455199826,
+          "y": -1.4529310273824123,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 143.371336,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.8660548475435815,
+          "y": -1.5680717317297235,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 2.3253316021952837,
+          "y": -0.9637689249801088,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 143.871336,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.8302396058062183,
+          "y": -2.3575175158482025,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 2.4806054582344563,
+          "y": -0.19699159523668844,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 144.371336,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.7679115460110651,
+          "y": -3.030762028838857,
+          "visible": true,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 2.4860540812175005,
+          "y": 0.4415652435187368,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    },
+    {
+      "time": 144.871336,
+      "action": false,
+      "replay": false,
+      "players": {
+        "1": {
+          "x": -0.7679115460110651,
+          "y": -3.030762028838857,
+          "visible": false,
+          "color": "#F44336",
+          "name": "Sherbini"
+        },
+        "2": {
+          "x": 2.3820823467890735,
+          "y": 0.49405931144332005,
+          "visible": true,
+          "color": "#FFFFFF",
+          "name": "Adel"
+        }
+      }
+    }
+  ]
+}
