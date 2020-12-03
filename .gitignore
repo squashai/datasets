@@ -11,5 +11,9 @@ $RECYCLE.BIN/
 # OSX
 .DS_Store
 
+# Dist file
+
+*.tar.gz
+
 # General
 *.swp
